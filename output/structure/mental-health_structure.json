@@ -1,0 +1,114 @@
+{
+  "https://www.samhsa.gov/mental-health": {
+    "https://www.samhsa.gov/mental-health/988": {
+      "https://www.samhsa.gov/mental-health/988/faqs": {},
+      "https://www.samhsa.gov/mental-health/988/key-messages": {},
+      "https://www.samhsa.gov/mental-health/988/lifeline-timeline": {},
+      "https://www.samhsa.gov/mental-health/988/newsroom": {
+        "https://www.samhsa.gov/mental-health/988/newsroom/988-day": {
+          "https://www.samhsa.gov/mental-health/988/newsroom/988-day/ideas": {},
+          "https://www.samhsa.gov/mental-health/988/newsroom/988-day/toolkit": {}
+        },
+        "https://www.samhsa.gov/mental-health/988/newsroom/b-roll-videos": {}
+      },
+      "https://www.samhsa.gov/mental-health/988/partner-toolkit": {
+        "https://www.samhsa.gov/mental-health/988/partner-toolkit/end-cards-media": {},
+        "https://www.samhsa.gov/mental-health/988/partner-toolkit/logo-branding": {}
+      },
+      "https://www.samhsa.gov/mental-health/988/performance-metrics": {},
+      "https://www.samhsa.gov/mental-health/988/press-releases": {}
+    },
+    "https://www.samhsa.gov/mental-health/children-and-families": {
+      "https://www.samhsa.gov/mental-health/children-and-families/coping-resources": {
+        "https://www.samhsa.gov/mental-health/children-and-families/coping-resources/multimedia": {}
+      },
+      "https://www.samhsa.gov/mental-health/children-and-families/early-childhood": {
+        "https://www.samhsa.gov/mental-health/children-and-families/early-childhood/coe-iecmh": {},
+        "https://www.samhsa.gov/mental-health/children-and-families/early-childhood/iecmh-grant": {},
+        "https://www.samhsa.gov/mental-health/children-and-families/early-childhood/project-launch": {}
+      },
+      "https://www.samhsa.gov/mental-health/children-and-families/online-health-and-safety-for-children-and-youth": {
+        "https://www.samhsa.gov/mental-health/children-and-families/online-health-and-safety-for-children-and-youth/resources": {}
+      },
+      "https://www.samhsa.gov/mental-health/children-and-families/school-health": {
+        "https://www.samhsa.gov/mental-health/children-and-families/school-health/project-aware": {},
+        "https://www.samhsa.gov/mental-health/children-and-families/school-health/resources": {},
+        "https://www.samhsa.gov/mental-health/children-and-families/school-health/tiss": {}
+      },
+      "https://www.samhsa.gov/mental-health/children-and-families/young-adults": {
+        "https://www.samhsa.gov/mental-health/children-and-families/young-adults/resources": {}
+      }
+    },
+    "https://www.samhsa.gov/mental-health/disaster-preparedness": {
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/adaptation-disasters": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/at-risk-populations": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/coping-tips": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types": {
+        "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/drought": {},
+        "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/earthquakes": {},
+        "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/floods": {},
+        "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/hurricanes-tropical-storms": {},
+        "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/mass-violence": {},
+        "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/memorial-dates": {},
+        "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/tornadoes": {},
+        "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/wildfires": {}
+      },
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/serg": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/warning-signs": {}
+    },
+    "https://www.samhsa.gov/mental-health/serious-mental-illness": {
+      "https://www.samhsa.gov/mental-health/serious-mental-illness/about": {},
+      "https://www.samhsa.gov/mental-health/serious-mental-illness/co-occurring-disorders": {},
+      "https://www.samhsa.gov/mental-health/serious-mental-illness/grants": {},
+      "https://www.samhsa.gov/mental-health/serious-mental-illness/managing-life": {},
+      "https://www.samhsa.gov/mental-health/serious-mental-illness/mhat": {},
+      "https://www.samhsa.gov/mental-health/serious-mental-illness/paimi": {},
+      "https://www.samhsa.gov/mental-health/serious-mental-illness/treatment-works": {
+        "https://www.samhsa.gov/mental-health/serious-mental-illness/treatment-works/multimedia": {}
+      }
+    },
+    "https://www.samhsa.gov/mental-health/suicidal-behavior": {
+      "https://www.samhsa.gov/mental-health/suicidal-behavior/about": {},
+      "https://www.samhsa.gov/mental-health/suicidal-behavior/prevention": {},
+      "https://www.samhsa.gov/mental-health/suicidal-behavior/prevention-initiatives": {
+        "https://www.samhsa.gov/mental-health/suicidal-behavior/prevention-initiatives/black-youth-suicide": {}
+      },
+      "https://www.samhsa.gov/mental-health/suicidal-behavior/resources": {},
+      "https://www.samhsa.gov/mental-health/suicidal-behavior/warning-signs": {}
+    },
+    "https://www.samhsa.gov/mental-health/trauma-violence": {
+      "https://www.samhsa.gov/mental-health/trauma-violence/child-trauma": {},
+      "https://www.samhsa.gov/mental-health/trauma-violence/nctsi": {},
+      "https://www.samhsa.gov/mental-health/trauma-violence/recast": {},
+      "https://www.samhsa.gov/mental-health/trauma-violence/trauma-informed-approaches-programs": {},
+      "https://www.samhsa.gov/mental-health/trauma-violence/trauma-informed-care": {
+        "https://www.samhsa.gov/mental-health/trauma-violence/trauma-informed-care/task-force-structure": {}
+      }
+    },
+    "https://www.samhsa.gov/mental-health/what-is-mental-health": {
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions": {
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/adhd": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/antisocial-personality-disorder": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/anxiety": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/bipolar": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/borderline-personality-disorder": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/co-occurring-disorders": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/depression": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/eating-disorders": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/ptsd": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/schizophrenia": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/seasonal-affective-disorder": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/self-harm": {}
+      },
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/facts": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk": {
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/community-and-faith-leaders": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/educators": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/friends-and-family": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/parents-and-caregivers": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/people-with-mental-health-problems": {},
+        "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/young-people": {}
+      }
+    }
+  }
+}

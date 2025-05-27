@@ -1,0 +1,237 @@
+Title
+
+Recommendations for Curricular Elements in Substance Use Disorders Training
+---------------------------------------------------------------------------
+
+Provider Support Contacts
+
+For general information, providers can contact SAMHSA's Center for Substance Abuse Treatment (CSAT) at
+1-866-287-2728
+or email
+providersupport@samhsa.hhs.gov
+.
+Body part 1
+Body part 2
+
+The United States faces a crisis of deaths from opioids, stimulants, synthetic agents, tobacco and alcohol.
+1
+These deaths represent a mere fraction of the total number of Americans harmed by substance misuse, and many people suffer daily from chronic use disorders. The long-term effects of substance misuse impact individuals, families, and communities. This is further compounded by changing patterns of substance misuse, as well as an increasing incidence of polysubstance use. The rise in fentanyl use or exposure, concurrent substance misuse, as well as overdose deaths, necessitates consideration of educational elements that promote understanding of SUDs, as well as their identification, treatment, and management.
+
+Federal and state policy over the last decade has sought to overcome the long-term effects of substance misuse impacting individuals, families, communities, and those charged with resource allocation. Most recently, Section 1263 of the ‘Consolidated Appropriations Act of 2023’
+2
+otherwise known as the Medication Access and Training Expansion (MATE) Act, requires new or renewing Drug Enforcement Administration (DEA) registrants, as of June 27, 2023, to have completed a total of at least 8 hours of training on opioid or other substance use disorders, as well as the safe pharmacological management of dental pain.
+
+Practitioners can meet this requirement in one of three ways:
+  - A total of 8-hours of training from a range of training entities on opioid or other substance use disorders3; or
+  - Board certification in addiction medicine or addiction psychiatry from the American Board of Medical Specialties, American Board of Addiction Medicine, or the American Osteopathic Association; or
+  - Graduation within 5 years and in good standing from a medical, advanced practice nursing, or physician assistant school in the United States that included successful completion of an opioid or other substance use disorder curriculum of at least 8 hours. This curriculum must have included teaching on the treatment and management of patients with opioid and other substance use disorders, including the appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of a substance use disorder.4
+
+The 8 required hours of training can occur through classroom situations, seminars at professional society meetings, virtual platforms, or via other accredited continuing education sources. Practitioners who previously took training to meet the requirements of the DATA-2000 waiver to prescribe buprenorphine can count this training towards the 8-hour training requirement. Additionally, the 8 hours do not have to be completed in one session and can be satisfied through cumulative CME hours, as long as the training is provided by or approved by one of the following organizations:
+  - The American Society of Addiction Medicine
+  - The American Academy of Addiction Psychiatry
+  - The American Medical Association
+  - The American Osteopathic Association
+  - The American Dental Association
+  - The American Association of Oral and Maxillofacial Surgeons
+  - The American Psychiatric Association
+  - The American Nurses Credentialing Center
+  - The American Association of Nurse Practitioners
+  - The American Academy of Physician Associates
+  - Any other organization accredited by the Accreditation Council for Continuing Medical Education (ACCME) or the Commission for Continuing Education Provider Recognition (CCEPR)
+  - Any organization accredited by a State medical society accreditor that is recognized by the ACCME or the CCEPR
+  - Any organization accredited by the American Osteopathic Association to provide continuing medical education
+  - Any organization approved by the ACCME, or the CCEPR.
+
+While Section 1263 of the ‘Consolidated Appropriations Act of 2023’ gave the Assistant Secretary for Mental Health and Substance Use the authority to also approve specific training organizations for this purpose, at the present time, SAMHSA has elected not to undertake a lengthy rulemaking process. This would potentially set up a burdensome system for applications, review and approval. SAMHSA estimates that based on the categories listed above, over 2,000 organizations may be eligible to provide the training.
+5
+,
+6
+
+Even though SAMHSA has elected not to pursue the option to approve specific training organizations, the agency will continue to support training and technical assistance as part of its efforts to expand and enhance the behavioral health workforce. This is achieved through provision of the Provider Clinical Support System and other related grant programs, as well as evidence-based publications available in the SAMHSA store. Given the urgency of the nation’s overdose crisis, the importance of practitioners receiving training in substance use disorders (SUD) cannot be overstated. Incorporating training on SUD into routine healthcare will enable practitioners to screen more widely for substance use disorders, treat pain appropriately, prevent substance misuse, and engage people in life-saving interventions.
+
+All members of an individual’s care team play a pivotal role in educating their patients and colleagues; screening, diagnosing, and treating patients; and modeling positive attitudes to reduce the stigma attached to SUDs. Research demonstrates that SUD educational interventions, using various approaches and durations, produce a positive impact on learner’s knowledge, skills, and attitudes.
+13
+Studies also reveal that simply increasing exposure to individuals with use disorders does not provide the formative knowledge required to identify, treat or even prevent SUDs without engagement in a comprehensive didactic curriculum.
+7
+
+This guide does not establish legally binding standards for substance use disorder curricula.  Rather, the purpose of this guide is to describe recommended core elements and content of substance use disorder curricula for those entities authorized to provide the substance use disorder training required under the MATE Act. It may also act as a guide to those DEA registrants who seek information on SUD-related education.
+
+Consideration of core elements is important because there is wide heterogeneity in SUD curricula across educational providers and institutions.
+6
+This can adversely impact patient care and confuse practitioners. Indeed, a lack of preparedness has been identified as a barrier in the provision of buprenorphine to patients with opioid use disorder by early career family physicians.
+8
+,
+9
+Moreover, a lack of appropriate education has also been shown to foster negative attitudes towards the provision of medications to treat substance use disorders, but not preventative counseling.
+10
+,
+11
+,
+12
+Inadequate or poorly delivered training adversely impact patient-practitioner dialogues and contribute to the under-treatment of SUDs by primary care and specialty providers.
+13
+,
+14
+Comprehensive teaching on SUDs, addiction, pain management, and treatment modalities has the potential to overcome these deficits and to positively impact practitioners and their patients.
+15
+
+Therefore, SAMHSA recommends that graduate health professional curricula and continuing education address the core elements of training listed below to ensure that practitioners have the knowledge, skills and competencies to diagnose and treat SUDs. Recommended training would incorporate culturally competent collaboration and clinical practice, as well as Risk Evaluation and Mitigation Strategies.
+16
+Core elements for consideration also ensure prescribers understand the risks and role of medications to effectively treat pain, screen for substance use and related risk factors for substance use, as well as the impact of trauma, historical biases, and stigma as barriers to engaging patients into treatment. In this way, educational activities should be designed for, and measure changes in, one or more of the following elements:
+  - Learner competence (knows how, can apply knowledge to a scenario)
+  - Learner performance (shows, can demonstrate a change in practice or processes)
+  - Patient health (does, can show how patients have responded to a change)
+  - Community or Population health (does, can show how groups of people have responded)
+
+Training and content that incorporate opportunities to fully integrate knowledge into practice will facilitate screening and case finding, and will assure practitioners, no matter their discipline or clinical practice setting, are competent in the skills needed to screen, counsel, refer, and coordinate care for patients with these disorders. The recommended core curricular elements, below, were developed with input from accrediting bodies, through listening sessions with educators, written feedback from stakeholders, engagement with the Department of Health and Human Services Behavioral Health Coordinating Committee Opioid Prescriber Education Workgroup, and close review of the National Academies of Medicine
+3Cs Framework for Pain and Unhealthy Substance Use: Minimum Core Competencies for Interprofessional Education and Practice.
+17
+
+As an overarching concept, SAMHSA recommends that content should be related to the prevention, recognition, and care of people with substance use disorders including those with concurrent pain and/or psychiatric and medical co-morbidities. Categorized for organizational purposes, recommended core curricular training elements could therefore include:
+  - Substance Use DisordersUse of validated screening tools for SUD and risk factors for substance use, including mental disorders18Diagnosis and assessment of individuals who screen positive for SUDs19The initiation and management of FDA approved medications for SUDs (opioids, alcohol and tobacco), including the impact of unique, individual physiology and metabolism on medication pharmacodynamics20Consideration of polysubstance use and co-occurring mental disorders21Patient and family education on safety and overdose prevention (diversion control; safe storage; use of naloxone)22
+  - Effective Treatment PlanningUse of patient-centered decision making and paradigms of care, and use of evidence-based communication strategies such as shared decision making and motivational interviewing23The impact of stigma, trauma and the social determinants of health on substance use and recovery26Collaborating with other disciplines to facilitate access to medications and referrals to services such as case management24Legal and ethical issues involved in the care of patients with SUD25
+  - Pain management and substance misuseThe assessment of patients with acute, subacute, or chronic pain26Components of developing an effective treatment plan, including general principles underlying nonpharmacologic and pharmacologic analgesic therapy, as well as the importance of multidisciplinary treatment interventions23Managing patients on opioid analgesics, including tapering off the medication when the benefits of opioids no longer outweigh the risks23Recognizing signs of OUD in the setting of prescribed opioids27
+
+The elements above, provide a basic overview of SUD identification, management and evidence-based care, as well as pain management.
+9
+They highlight the importance of recognizing, preventing, and caring for people with substance use disorders including those with concurrent pain and/or psychiatric and medical co-morbidities. Moreover, they can also form the basis, where appropriate, for creating performance evaluation criteria as recommended educational activities should be designed for, and measure changes in learners’ competence (i.e. applied knowledge, strategies), and/or learner performance (i.e. can demonstrate a change in practice or processes), and/or patient health (i.e. how patients respond to a change), and/or community or population health (i.e. how groups of people respond to a change).
+
+Over the past several years, professional societies and researchers have proposed and created example longitudinal addiction medicine curricula.
+28
+This is augmented by a multitude of evidence-based resources that address discrete elements of the continuum of substance use disorders in an interactive and evidence-based manner. Such resources include: the
+Coalition of Physician Education in SUD
+; the
+UCSF Smoking Cessation Leadership Center
+;
+NIH Training Resources
+;
+Providers’ Clinical Support System for Medication Assisted Treatment
+; the FDA
+Opioid Risk Evaluation and Mitigation Strategies
+; CDC
+modules on pain management
+; and SAMHSA’s
+Evidence-Based Practices Resource Center
+. The availability of existing resources decreases the burden of implementing new educational activities while also exposing learners to evidence-based, public health resources.
+
+SAMHSA urges the integration of evidence-based practice into clinical education, and as new evidence or information becomes available, SAMHSA reserves the right to update these recommendations. This is because effective education lays the foundation for optimal patient management, and never has there been a greater need for a widely disseminated, knowledgeable and compassionate workforce capable of diagnosing and managing SUDs. SAMHSA encourages all practitioners to screen for and to treat substance use disorders. Further information about buprenorphine and the management of SUDs can be found on the SAMHSA website.
+
+The SAMHSA store offers free resources that provide practical information:
+SAMHSA’s Quick Start Guide
+and
+Buprenorphine Quick Start Pocket Guide
+provide advice on initiating treatment with buprenorphine among those individuals who screen positive for opioid use disorder. For more comprehensive information, please refer to
+TIP 63: Medication for Opioid Use Disorder
+and
+Practical Tools for Prescribing and Promoting Buprenorphine in Primary Care Settings
+. Finally, the
+Providers Clinical Support System
+can provide free technical assistance as needed.
+
+Find information on the
+training and accreditation/approval organizations included in the MATE Act
+.
+
+1
+Blanco, C., Wiley, T.R.A., Lloyd, J.J. et al. America’s opioid crisis: the need for an integrated public health approach. Transl Psychiatry 10, 167 (2020).
+https://doi.org/10.1038/s41398-020-0847-1
+
+2
+See
+https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf
+
+3
+Practitioners who previously took training to meet the requirements of the DATA-2000 waiver to prescribe buprenorphine can count this training towards the 8-hour training requirement.
+
+4
+Section 1263. Requiring Prescribers Of Controlled Substances To Complete Training. The Consolidated Appropriations Act, 2023.
+For the statutory language of P.L. 117-328
+.
+
+5
+See
+ACCME 2019 Data Report (PDF | 1.9 MB)
+.
+
+6
+See
+https://ccepr.ada.org/national-approval-section#sort=%40cenasprovider%20ascending
+
+7
+Tetrault, J. Improving Health Professions Education to Treat Addiction: The Time Has Come. The Josiah Macy Jr Foundation, News and Commentary. May 2018.
+
+8
+DeFlavio JR, Rolin SA, Nordstrom BR, Kazal LA Jr. Analysis of barriers to adoption of buprenorphine maintenance therapy by family physicians. Rural Remote Health. 2015;15:3019.
+
+9
+Tong ST, Hochheimer CJ, Peterson LE, Krist AH. Buprenorphine Provision by Early Career Family Physicians. Ann Fam Med. 2018;16(5):443-446. doi:10.1370/afm.2261
+
+10
+Ober AJ, Watkins KE, Hunter SB, Ewing B, Lamp K, Lind M, et al. Assessing and improving organizational readiness to implement substance use disorder treatment in primary care: findings from the SUMMIT study. BMC Fam Pract. 2017;18(1):107.
+
+11
+Alanis-Hirsch K, Croff R, Ford JH 2nd, Johnson K, Chalk M, Schmidt L, et al. Extended-release naltrexone: A qualitative analysis of barriers to routine use. J Subst Abuse Treat. 2016;62:68–73.
+
+12
+Louie DL, Assefa MT, McGovern MP.
+Attitudes of primary care physicians toward prescribing buprenorphine: a narrative review.
+BMC Fam Pract. 2019;20(1):157. Published 2019 Nov 15. doi:10.1186/s12875-019-1047-z
+
+13
+Kennedy-Hendricks A, Busch SH, McGinty EE, et al.
+Primary care physicians' perspectives on the prescription opioid epidemic
+. Drug Alcohol Depend. 2016;165:61-70. doi:10.1016/j.drugalcdep.2016.05.010
+
+14
+Press KR, Zornberg GZ, Geller G, Carrese J, Fingerhood MI. What patients with addiction disorders need from their primary care physicians: A qualitative study. Subst Abus. 2016;37(2):349-355. doi:10.1080/08897077.2015.1080785
+
+15
+Hoffman, J. (2018, September 10). Most Doctors Are Ill-Equipped to Deal With the Opioid Epidemic. Few Medical Teach Addiction. The New York Times, p. D1.
+
+16
+Holmboe, E., S. Singer, K. Chappell, K. Assadi, A. Salman, and the Education and Training Working Group of the National Academy of Medicine’s Action Collaborative on Countering the U.S. Opioid Epidemic. 2022. The 3Cs Framework for Pain and Unhealthy Substance Use: Minimum Core Competencies for Interprofessional Education and Practice. NAM Perspectives. Discussion Paper, National Academy of Medicine, Washington, DC.
+https://doi.org/10.31478/202206a
+.
+
+17
+Holmboe E, Singer S, Chappell K, Assadi K, Salman A. The 3Cs Framework for Pain and Unhealthy Substance Use: Minimum Core Competencies for Interprofessional Education and Practice. NAM Perspect. 2022 Jun 6;2022:10.31478/202206a. doi: 10.31478/202206a. PMID: 36177204; PMCID: PMC9499381.
+
+18
+The American Society of Addiction Medicine. The ASAM Fundamentals of Addiction Medicine Recognition Program: Competencies and Curriculum Learning Objectives. 2015
+
+19
+American Society of Addiction Medicine. ASAM Standards of Care for Addiction Specialists. 2014
+
+20
+The Patient Care Process for Delivering Comprehensive Medication Management (CMM): Optimizing Medication Use in Patient-Centered, Team-Based Care Settings. CMM in Primary Care Research Team
+. July 2018.
+
+21
+Substance Abuse and Mental Health Services Administration (SAMHSA):
+Treating Concurrent Substance Use Among Adults
+. SAMHSA Publication No. PEP21-06-02-002. Rockville, MD: National Mental Health and Substance Use Policy Laboratory. Substance Abuse and Mental Health Services Administration, 2021.
+
+22
+The State of Massachusetts. Recommendations From The Governor’s Medical Education Working Group On Prescription Drug Misuse. Medical Education Core Competencies for the Prevention and Management of Prescription Drug Misuse. 2015
+
+23
+Wandner, L. D., Prasad, R., Ramezani, A., Malcore, S. A., & Kerns, R. D. (2019). Core competencies for the emerging specialty of pain psychology. American Psychologist, 74(4), 432–444. https://doi.org/10.1037/amp0000330
+
+24
+Dowell D, Ragan KR, Jones CM, Baldwin GT, Chou R. CDC Clinical Practice Guideline for Prescribing Opioids for Pain — United States, 2022. MMWR Recomm Rep 2022;71(No. RR-3):1–95. DOI: http://dx.doi.org/10.15585/mmwr.rr7103a1
+
+25
+Tran T, Ball J, Bratberg JP, DeSimone EM, Franko TS, Hill LG, Sharp CPK, Palombi L, Ventricelli D, Farrell D, Gandhi N, Moore T. Report of the 2020 Special Committee on Substance Use and Pharmacy Education. Am J Pharm Educ. 2020 Nov;84(11):8421. doi: 10.5688/ajpe8421. Epub 2020 Nov 2. PMID: 34283760; PMCID: PMC7712728.
+
+26
+Servis M, Fishman SM, Wallace MS, Henry SG, Ziedonis D, Ciccarone D, Knight KR, Shoptaw S, Dowling P, Suchard JR, Shah S, Singh N, Cedarquist LC, Alem N, Copenhaver DJ, Westervelt M, Willis BC. Responding to the Opioid Epidemic: Educational Competencies for Pain and Substance Use Disorder from the Medical Schools of the University of California. Pain Med. 2021 Feb 4;22(1):60-66. doi: 10.1093/pm/pnaa399. PMID: 33316051; PMCID: PMC8921611.
+
+27
+Rutkowski, Beth. (2019). Specific disciplines addressing substance use: AMERSA in the 21st century. Substance Abuse. 40. 1-4. 10.1080/08897077.2019.1686726.
+
+28
+The American Academy of Family Physicians,
+Recommended Curriculum Guidelines for Family Medicine Residents: Substance Use Disorders
+. Accessed on 01/26/2021.
+Last Updated
+Last Updated: 04/24/2023

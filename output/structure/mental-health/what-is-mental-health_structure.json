@@ -1,0 +1,27 @@
+{
+  "https://www.samhsa.gov/mental-health/what-is-mental-health": {
+    "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions": {
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/adhd": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/antisocial-personality-disorder": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/anxiety": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/bipolar": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/borderline-personality-disorder": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/co-occurring-disorders": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/depression": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/eating-disorders": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/ptsd": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/schizophrenia": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/seasonal-affective-disorder": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/self-harm": {}
+    },
+    "https://www.samhsa.gov/mental-health/what-is-mental-health/facts": {},
+    "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk": {
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/community-and-faith-leaders": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/educators": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/friends-and-family": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/parents-and-caregivers": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/people-with-mental-health-problems": {},
+      "https://www.samhsa.gov/mental-health/what-is-mental-health/how-to-talk/young-people": {}
+    }
+  }
+}

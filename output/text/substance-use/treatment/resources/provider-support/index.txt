@@ -1,0 +1,72 @@
+Title
+
+Provider Support
+----------------
+Intro
+
+Find information, training, and support resources for practitioners using medication to treat all forms of substance use disorder (SUD).
+
+Provider Support Contact
+
+Practitioners with general information and training questions can contact SAMHSA's Provider Support Team at
+providersupport@samhsa.hhs.gov
+or call
+1-866-287-2728
+.
+https://www.samhsa.gov/medications-substance-use-disorders/core-curriculum-integrationBody
+
+Elimination of the DATA Waiver
+------------------------------
+
+Section 1262 of the Consolidated Appropriations Act, 2023 (also known as Omnibus bill), removed the federal requirement for practitioners to submit a Notice of Intent (have a waiver) to prescribe medications such as buprenorphine, for the treatment of opioid use disorder (OUD).
+
+For more information see
+Waiver Elimination (MAT Act)
+.
+
+Provider Education and Training
+-------------------------------
+
+Section 1263 of the Consolidated Appropriations Act of 2023, also known as the MATE Act, requires practitioners applying for a new or renewed Drug Enforcement Administration (DEA) registration with Schedules II – V to attest that they have met these requirements:
+  - Completed at least 8-hours of training (training can be cumulative; it does not have to be complete in one session) on opioid/other substance use disorders that has been approved by certain specified organizations; or
+  - Hold a current board certification in addiction medicine or addiction psychiatry from the American Board of Medical Specialties, American Board of Addiction Medicine, or the American Osteopathic Association; or
+  - Graduated within five (5) years in good standing from a medical, advanced practice nursing, or physician assistant school in the United States that included successful completion of an opioid or other substance use disorder curriculum. Training must include the treatment and management of patients with opioid and other substance use disorders, and the appropriate clinical use of all drugs approved by the FDA for the treatment of a substance use disorder.
+
+For more information see
+Training Requirements (MATE Act) Resources
+.
+
+Find information on the
+training and accreditation/approval organizations included in the MATE Act
+.
+
+Development of Core Curriculum for Graduate Healthcare Education
+----------------------------------------------------------------
+
+SAMHSA worked with the Office of National Drug Control Policy (ONDCP) and experts from the field to expand the SUD health professions workforce through development of core curriculum on SUD for integration into all medical and health profession programs.
+
+To build upon previous efforts, SAMHSA and ONDCP convened a panel of experts in August 2023 to review and draft core curricular elements or categories that should be incorporated into SUD curriculum.
+
+Learn about the effort to develop recommended core curriculum
+.
+
+Learn more and download the report (PDF | 408 KB)
+.
+
+View a listing of the
+recommended Core Curriculum Topics (PDF | 173 KB)
+.
+
+SAMHSA Training Resources
+-------------------------
+  - Addiction Technology Transfer Center (ATTC) Network– a international, multidisciplinary resource for SUD treatment and recovery professionals.
+  - Opioid Response Network (ORN)– provides free training and education to address opioid, stimulant, and all SUDs.
+  - Providers Clinical Support System (PCSS)– this training, guidance, and mentoring program offers three entities to support practitioners learning.Providers Clinical Support System – Medications for Alcohol Use Disorders (PCSS-MAUD)– provides free training to medical practitioners to identify and treat alcohol use disorder.Providers Clinical Support System – Medications for Opioid Use Disorders (PCSS-MOUD)– provides free training to medical practitioners to identify and treat OUD.Providers Clinical Support System - Universities (PCSS-Universities)– integration of SUD core curriculum for all medical and health professions to ensure every student is educated on SUD.
+Provider Support Grants
+
+Provider Support Grants
+-----------------------
+  - Emergency Department Alternatives to Opioids Program (ED-ALT)– this grant program offers alternatives to the use of opioids for pain management in hospitals and emergency departments.
+  - Comprehensive Opioid Recovery Centers (CORC) – this grant is awarded to nonprofit SUD treatment organizations to operate comprehensive centers that provide a full spectrum of treatment and recovery support services for OUD.
+Last Updated
+Last Updated: 03/12/2024

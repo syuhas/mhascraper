@@ -1,0 +1,55 @@
+Title
+
+Programmatic Requirements for the Synar Program
+-----------------------------------------------
+Body
+
+The Center for Substance Abuse Prevention (CSAP) assists states in complying with the Synar Amendment’s goals by issuing programmatic requirements and guidance.
+
+Please read the
+revised Synar guidance issued 6/13/2022 in response to the passage of the Tobacco 21 law (PDF | 308 KB).
+
+CSAP is charged with overseeing the states’ implementation of the Synar requirements and provides technical assistance on the requirements and youth tobacco access issues in general. CSAP also provides guidance to states regarding the conduct of random, unannounced inspections. Specifically, in conducting their annual Synar surveys, states must:
+  - Develop a sampling frame that includes both over-the-counter and vending machine locations accessible to youth and young adults under the age of 21
+  - Ensure that the sampling frame includes, at a minimum, 80% of the tobacco outlets in the state (CSAP requires states that use a list frame to conduct and report the results of a coverage study designed to assess the completeness of the sampling frame.)
+  - Design a sampling methodology and implementation plan that are based on sound survey sampling methodology
+  - Sample a large enough number of outlets to meet SAMHSA’s precision requirement (one-sided 95% confidence interval)
+  - Obtain a completion rate of 90% or better
+  - Record the actual steps of the survey process in the field and keep records of all sources of sample attrition in the field
+  - Weight the results of the Synar survey to account for unequal probabilities of selection, differences in percentages of eligible outlets between strata or clusters, and other deviations from the intended design
+
+Penalties for Noncompliance
+---------------------------
+
+In addition to setting targets for the states, the Synar Amendment established penalties for noncompliance. The penalty for a state is loss of up to 10% of its
+Substance Use Prevention, Treatment, and Recovery Services Block Grant
+(SUBG) funds.
+
+A state can avoid the 10% reduction in its SUBG funds if the state stipulates that it will spend its own funds to improve compliance with the law. Specifically, under the alternative penalty, a state that fails to meet Synar requirements can take the following steps to avoid being penalized:
+  - Submit a corrective action plan to the Assistant Secretary for Mental Health and Substance Use within 90 days of receipt of notice that they are not in compliance with the Synar regulations, which outlines strategies they will take to reduce the Retail Violation Rate to 20 percent or less. States may not use Substance Use Prevention, Treatment, and Recovery Services Block Grant funds to pay for these activities, and must find alternate sources of funds to cover these costs.
+
+Funding for Implementation
+--------------------------
+
+Although there is no dedicated federal source of funding for states to use in implementing the Synar requirements, states may expend funds from the primary prevention set aside of their SUBG for carrying out the administrative aspects of the requirements, such as developing the sample design and conducting inspections. SUBG funds may not be used to fund enforcement of youth tobacco access laws.
+RR info
+
+Featured Resource
+-----------------
+
+The
+National Survey on Drug Use and Health
+is the primary source of statistical information on the use of illegal drugs, alcohol, and tobacco by the U.S. civilian noninstitutionalized population aged 12 or older.
+
+Contact
+-------
+
+Clark Hagen
+, Synar Specialist
+Division of Primary Prevention, CSAP
+(240) 276-1088
+clark.hagen@samhsa.hhs.gov
+
+Contact SAMHSA
+Last Updated
+Last Updated: 04/17/2024

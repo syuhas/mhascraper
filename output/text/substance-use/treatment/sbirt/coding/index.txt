@@ -1,0 +1,75 @@
+Title
+
+Coding for Screening and Brief Intervention Reimbursement
+---------------------------------------------------------
+Body
+
+Reimbursement for screening and brief intervention is available through commercial insurance, Medicare, and Medicaid.
+
+Important Medicare Information
+------------------------------
+
+SAMHSA is working with the
+Centers for Medicare and Medicaid Services
+to educate practitioners about the importance of SBIRT coverage and the Medicare billing rules around these services. SBIRT services are defined as alcohol and/or substance (other than tobacco) abuse
+structured assessment
+(for example, Alcohol Use Disorders Identification Test, Drug Abuse Screening Test) and brief intervention. Medicare may not pay for screening services unless specifically required by statute.
+
+More information can be found at the
+Medicare Learning Network
+.
+
+Reimbursement for SBIRT
+-----------------------
+
+Payer
+
+Code
+
+Description
+
+Fee Schedule
+
+Commercial Insurance
+
+CPT 99408
+
+Alcohol and/or substance abuse structured screening and brief intervention services; 15 to 30 minutes
+
+$33.41
+
+CPT 99409
+
+Alcohol and/or substance abuse structured screening and brief intervention services; greater than 30 minutes
+
+$65.51
+
+Medicare
+
+G0396
+
+Alcohol and/or substance abuse structured screening and brief intervention services; 15 to 30 minutes
+
+$29.42
+
+G0397
+
+Alcohol and/or substance abuse structured screening and brief intervention services; greater than 30 minutes
+
+$57.69
+
+Medicaid
+
+H0049
+
+Alcohol and/or drug screening
+
+$24.00
+
+H0050
+
+Alcohol and/or drug screening, brief intervention, per 15 minutes
+
+$48.00
+Last Updated
+Last Updated: 04/17/2024

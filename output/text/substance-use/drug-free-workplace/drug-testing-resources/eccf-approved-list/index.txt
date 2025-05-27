@@ -1,0 +1,139 @@
+Title
+
+Electronic Custody and Control Approved Lab List
+------------------------------------------------
+Body
+
+The Division of Workplace Programs (DWP) keeps an updated list of drug-testing laboratories with approved Electronic Custody and Control Form (ECCF) systems.
+
+Before an HHS-certified test facility can use a Federal ECCF for regulated specimens, the test facility must submit a detailed plan and proposed standard operating procedures (SOPs) for the ECCF system for HHS review and approval (through the National Laboratory Certification Program - NLCP). Proposed systems must be reviewed on-site by the NLCP prior to implementation.
+
+The following list of laboratories with HHS approval to implement an ECCF system for use with regulated testing has been compiled by the NLCP. This list does not constitute an endorsement of the ECCF system. It reflects the approval for the listed laboratory to use the reviewed ECCF system for regulated specimens.
+
+Alere Toxicology Services
+Gretna, LA
+Alere eScreen
+Type of eCCF system: Combination Electronic/Paper (Type 2)
+Approval date: October 9, 2015
+
+Alere Toxicology Services
+Richmond, VA
+Alere eScreen
+Type of eCCF system: Combination Electronic/Paper (Type 2)
+Approval date: May 5, 2016
+
+Clinical Reference Laboratory, Inc.
+Lenexa, KS
+FormFox, Inc.
+Type of ECCF system: Combination Electronic/Paper (Type 2)
+Approval date: August 2, 2016
+
+Clinical Reference Laboratory, Inc.
+Lenexa, KS
+eScreen
+Type of ECCF system: Combination Electronic/Paper (Type 2)
+Approval date: January 19, 2017
+
+LabOne, Inc. d/b/a Quest Diagnostics
+Lenexa, KS
+FormFox
+Type of ECCF system: Combination Electronic/Paper (Type 2)
+Approval date: August 3, 2016
+
+LabOne, Inc. d/b/a Quest Diagnostics
+Lenexa, KS
+eScreen
+Type of ECCF system: Combination Electronic/Paper CCF (Type 2)
+Approval date: September 20, 2017
+
+Laboratory Corporation of America Holdings
+Research Triangle Park, NC
+Laboratory Corporation of America
+Type of ECCF System: Combination Electronic/Paper (Type 1)
+Approval date: August 8, 2016
+
+Laboratory Corporation of America Holdings
+Research Triangle Park, NC
+eScreen
+Type of ECCF System: Combination Electronic/Paper (Type 2)
+Approval date: March 31, 2020
+
+Laboratory Corporation of America Holdings
+Houston, TX
+Laboratory Corporation of America
+Type of ECCF System: Combination Electronic/Paper (Type 1)
+Approval date: August 8, 2016
+
+Laboratory Corporation of America Holdings
+Houston, TX
+eScreen
+Type of ECCF System: Combination Electronic/Paper (Type 2)
+Approval date: February 4, 2020
+
+Laboratory Corporation of America Holdings
+Southaven, MS
+Laboratory Corporation of America
+Type of ECCF System: Combination Electronic/Paper (Type 1)
+Approval date: August 8, 2016
+
+Laboratory Corporation of America Holdings
+Southaven, MS
+FormFox
+Type of ECCF System: Combination Electronic/Paper (Type 2)
+Approval date: July 10, 2018
+
+Laboratory Corporation of America Holdings
+Southaven, MS
+eScreen
+Type of ECCF System: Combination Electronic/Paper (Type 2)
+Approval date: April 20, 2020
+
+Laboratory Corporation of America Holdings
+Raritan, NJ
+Laboratory Corporation of America
+Type of ECCF System: Combination Electronic/Paper (Type 1)
+Approval date: August 10, 2016
+
+Laboratory Corporation of America Holdings
+Raritan, NJ
+eScreen
+Type of ECCF System: Combination Electronic/Paper (Type 2)
+Approval date: October 23, 2019
+
+Laboratory Corporation of America Holdings
+Southaven, MS
+Laboratory Corporation of America
+Type of ECCF System: Digital (Paperless)
+Approval date: July 12, 2022
+
+U.S. Army Forensic Toxicology Drug Testing Laboratory
+Fort Meade, MD
+eScreen
+Type of ECCF System: Combination Electronic/Paper CCF (Type 2)
+Approval date: August 3, 2022
+
+Laboratory Corporation of America Holdings
+Houston, TX
+Laboratory Corporation of America
+Type of ECCF System: Digital (Paperless)
+Approval date: January 2, 2023
+
+Laboratory Corporation of America Holdings
+Raritan, NJ
+Laboratory Corporation of America
+Type of ECCF System: Digital (Paperless)
+Approval date: January 2, 2023
+
+Laboratory Corporation of America Holdings
+Research Triangle Park, NC
+Laboratory Corporation of America
+Type of ECCF System: Digital (Paperless)
+Approval date: January 2, 2023
+
+Download
+--------
+  - August 2022 ECCF Approved Lab List (PDF | 97 KB)
+  - July 2022 ECCF Approved Lab List (PDF | 98 KB)
+  - March 2021 ECCF Approved Lab List (PDF | 109 KB)
+Last Updated
+Last Updated: 07/23/2024

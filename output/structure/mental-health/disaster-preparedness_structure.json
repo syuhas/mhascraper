@@ -1,0 +1,19 @@
+{
+  "https://www.samhsa.gov/mental-health/disaster-preparedness": {
+    "https://www.samhsa.gov/mental-health/disaster-preparedness/adaptation-disasters": {},
+    "https://www.samhsa.gov/mental-health/disaster-preparedness/at-risk-populations": {},
+    "https://www.samhsa.gov/mental-health/disaster-preparedness/coping-tips": {},
+    "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types": {
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/drought": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/earthquakes": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/floods": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/hurricanes-tropical-storms": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/mass-violence": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/memorial-dates": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/tornadoes": {},
+      "https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/wildfires": {}
+    },
+    "https://www.samhsa.gov/mental-health/disaster-preparedness/serg": {},
+    "https://www.samhsa.gov/mental-health/disaster-preparedness/warning-signs": {}
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "https://www.samhsa.gov/substance-use": {
+    "https://www.samhsa.gov/substance-use/drug-free-workplace": {
+      "https://www.samhsa.gov/substance-use/drug-free-workplace/about": {
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/about/background": {}
+      },
+      "https://www.samhsa.gov/substance-use/drug-free-workplace/drug-testing-resources": {
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/drug-testing-resources/eccf-approved-list": {},
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/drug-testing-resources/lab-list": {
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/drug-testing-resources/lab-list/archived": {}
+        }
+      },
+      "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources": {
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/avoiding-legal-problems": {},
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/contractors-grantees": {},
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/federal-laws": {},
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/safety-security-sensitive": {},
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/state-laws": {},
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit": {
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/access-your-workplace": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/assessment-methods": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/build-team": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/develop-policy": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/evaluate-program": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/plan-implement-program": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/prepare-workplace": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/provide-support": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/provide-training": {},
+          "https://www.samhsa.gov/substance-use/drug-free-workplace/employer-resources/toolkit/supervisor-training": {}
+        }
+      },
+      "https://www.samhsa.gov/substance-use/drug-free-workplace/faqs": {},
+      "https://www.samhsa.gov/substance-use/drug-free-workplace/forms": {
+        "https://www.samhsa.gov/substance-use/drug-free-workplace/forms/archived": {}
+      }
+    },
+    "https://www.samhsa.gov/substance-use/harm-reduction": {
+      "https://www.samhsa.gov/substance-use/harm-reduction/framework": {}
+    },
+    "https://www.samhsa.gov/substance-use/learn": {
+      "https://www.samhsa.gov/substance-use/learn/alcohol": {},
+      "https://www.samhsa.gov/substance-use/learn/marijuana-cbd": {},
+      "https://www.samhsa.gov/substance-use/learn/marijuana": {
+        "https://www.samhsa.gov/substance-use/learn/marijuana/iq-quiz": {},
+        "https://www.samhsa.gov/substance-use/learn/marijuana/pregnancy": {},
+        "https://www.samhsa.gov/substance-use/learn/marijuana/resources": {},
+        "https://www.samhsa.gov/substance-use/learn/marijuana/risks": {}
+      },
+      "https://www.samhsa.gov/substance-use/learn/prescriptions-opioids": {},
+      "https://www.samhsa.gov/substance-use/learn/risks": {
+        "https://www.samhsa.gov/substance-use/learn/risks/multimedia": {}
+      },
+      "https://www.samhsa.gov/substance-use/learn/stimulants": {
+        "https://www.samhsa.gov/substance-use/learn/stimulants/resources": {}
+      },
+      "https://www.samhsa.gov/substance-use/learn/tobacco-vaping": {
+        "https://www.samhsa.gov/substance-use/learn/tobacco-vaping/synar": {
+          "https://www.samhsa.gov/substance-use/learn/tobacco-vaping/synar/annual-reports": {},
+          "https://www.samhsa.gov/substance-use/learn/tobacco-vaping/synar/faqs": {},
+          "https://www.samhsa.gov/substance-use/learn/tobacco-vaping/synar/requirements": {},
+          "https://www.samhsa.gov/substance-use/learn/tobacco-vaping/synar/synars-success": {}
+        }
+      }
+    },
+    "https://www.samhsa.gov/substance-use/prevention": {
+      "https://www.samhsa.gov/substance-use/prevention/campaigns-events": {},
+      "https://www.samhsa.gov/substance-use/prevention/communities-talk": {
+        "https://www.samhsa.gov/substance-use/prevention/communities-talk/getting-started": {
+          "https://www.samhsa.gov/substance-use/prevention/communities-talk/getting-started/toolkit": {}
+        },
+        "https://www.samhsa.gov/substance-use/prevention/communities-talk/mini-campaigns": {
+          "https://www.samhsa.gov/substance-use/prevention/communities-talk/mini-campaigns/addressing-substance-misuse-among-transition-age-youth-not-attending-college": {},
+          "https://www.samhsa.gov/substance-use/prevention/communities-talk/mini-campaigns/medical-professionals": {}
+        },
+        "https://www.samhsa.gov/substance-use/prevention/communities-talk/podcast": {},
+        "https://www.samhsa.gov/substance-use/prevention/communities-talk/prevention-stories": {
+          "https://www.samhsa.gov/substance-use/prevention/communities-talk/prevention-stories/family-engagement-resource-fair": {},
+          "https://www.samhsa.gov/substance-use/prevention/communities-talk/prevention-stories/fentanyl-awareness": {},
+          "https://www.samhsa.gov/substance-use/prevention/communities-talk/prevention-stories/grantsville-city-intergenerational-community-garden": {},
+          "https://www.samhsa.gov/substance-use/prevention/communities-talk/prevention-stories/start-the-conversation": {}
+        },
+        "https://www.samhsa.gov/substance-use/prevention/communities-talk/tips-resources": {},
+        "https://www.samhsa.gov/substance-use/prevention/communities-talk/whats-new": {}
+      },
+      "https://www.samhsa.gov/substance-use/prevention/fentanyl-awareness-youth-challenge": {
+        "https://www.samhsa.gov/substance-use/prevention/fentanyl-awareness-youth-challenge/winners": {}
+      },
+      "https://www.samhsa.gov/substance-use/prevention/iccpud": {
+        "https://www.samhsa.gov/substance-use/prevention/iccpud/about": {
+          "https://www.samhsa.gov/substance-use/prevention/iccpud/about/agencies": {}
+        },
+        "https://www.samhsa.gov/substance-use/prevention/iccpud/alcohol-intake-health-study": {},
+        "https://www.samhsa.gov/substance-use/prevention/iccpud/events": {},
+        "https://www.samhsa.gov/substance-use/prevention/iccpud/funding-opportunities": {},
+        "https://www.samhsa.gov/substance-use/prevention/iccpud/policy-academy": {},
+        "https://www.samhsa.gov/substance-use/prevention/iccpud/reports-congress": {},
+        "https://www.samhsa.gov/substance-use/prevention/iccpud/resources": {}
+      },
+      "https://www.samhsa.gov/substance-use/prevention/substance-use-mental-disorders": {},
+      "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you": {
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/about": {},
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/community-partners": {
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/community-partners/brand-guide": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/community-partners/discussion-videos": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/community-partners/promotional-tools": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/community-partners/psas": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/community-partners/soundtrack": {}
+        },
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/mobile-application": {},
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources": {
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/brochures": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/consequences-underage-drinking": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/conversation": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/family-agreement-form": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/how-tell-if-your-child-drinking-alcohol": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/impaired-driving": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/prevent-your-child-drinking": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/small-conversations": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/talk-with-your-child": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/tough-questions": {},
+          "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parent-resources/why-your-child-might-start-drinking": {}
+        },
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/parents-night-out": {},
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/podcast": {},
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/school-resources": {},
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/screen4success": {},
+        "https://www.samhsa.gov/substance-use/prevention/talk-they-hear-you/whats-new": {}
+      }
+    },
+    "https://www.samhsa.gov/substance-use/recovery": {
+      "https://www.samhsa.gov/substance-use/recovery/about": {},
+      "https://www.samhsa.gov/substance-use/recovery/grants": {},
+      "https://www.samhsa.gov/substance-use/recovery/news-events": {},
+      "https://www.samhsa.gov/substance-use/recovery/recoverme": {
+        "https://www.samhsa.gov/substance-use/recovery/recoverme/about": {},
+        "https://www.samhsa.gov/substance-use/recovery/recoverme/need-help": {},
+        "https://www.samhsa.gov/substance-use/recovery/recoverme/substance-use-mental-health": {},
+        "https://www.samhsa.gov/substance-use/recovery/recoverme/toolkit": {}
+      },
+      "https://www.samhsa.gov/substance-use/recovery/recovery-innovation-challenge": {
+        "https://www.samhsa.gov/substance-use/recovery/recovery-innovation-challenge/winners": {}
+      },
+      "https://www.samhsa.gov/substance-use/recovery/resources": {},
+      "https://www.samhsa.gov/substance-use/recovery/voyarecuperarme": {
+        "https://www.samhsa.gov/substance-use/recovery/voyarecuperarme/el-consumo-de-sustancias-la-salud-mental": {},
+        "https://www.samhsa.gov/substance-use/recovery/voyarecuperarme/kit-de-herramientas": {},
+        "https://www.samhsa.gov/substance-use/recovery/voyarecuperarme/necesitas-ayuda": {},
+        "https://www.samhsa.gov/substance-use/recovery/voyarecuperarme/sobre-la-campana": {}
+      }
+    },
+    "https://www.samhsa.gov/substance-use/treatment": {
+      "https://www.samhsa.gov/substance-use/treatment/co-occurring-disorders": {},
+      "https://www.samhsa.gov/substance-use/treatment/find-treatment": {
+        "https://www.samhsa.gov/substance-use/treatment/find-treatment/buprenorphine-practitioner-locator": {},
+        "https://www.samhsa.gov/substance-use/treatment/find-treatment/pharmacist-lookup": {},
+        "https://www.samhsa.gov/substance-use/treatment/find-treatment/pharmacist-verification": {}
+      },
+      "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program": {
+        "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/42-cfr-part-8": {
+          "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/42-cfr-part-8/changes": {},
+          "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/42-cfr-part-8/faqs": {},
+          "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/42-cfr-part-8/for-patients": {},
+          "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/42-cfr-part-8/video-series": {}
+        },
+        "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/accreditation-bodies": {},
+        "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/become-otp": {
+          "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/become-otp/become-accrediting-body": {},
+          "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/become-otp/compliance-officers": {},
+          "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/become-otp/otp-faqs": {}
+        },
+        "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/exception-request": {},
+        "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/methadone-guidance": {},
+        "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/program-changes": {},
+        "https://www.samhsa.gov/substance-use/treatment/opioid-treatment-program/sota": {}
+      },
+      "https://www.samhsa.gov/substance-use/treatment/options": {
+        "https://www.samhsa.gov/substance-use/treatment/options/buprenorphine": {},
+        "https://www.samhsa.gov/substance-use/treatment/options/medications": {},
+        "https://www.samhsa.gov/substance-use/treatment/options/methadone": {},
+        "https://www.samhsa.gov/substance-use/treatment/options/naltrexone": {}
+      },
+      "https://www.samhsa.gov/substance-use/treatment/overdose-prevention": {
+        "https://www.samhsa.gov/substance-use/treatment/overdose-prevention/fentanyl-xylazine-test-strips": {},
+        "https://www.samhsa.gov/substance-use/treatment/overdose-prevention/opioid-overdose-reversal": {},
+        "https://www.samhsa.gov/substance-use/treatment/overdose-prevention/otc-naloxone-faqs": {},
+        "https://www.samhsa.gov/substance-use/treatment/overdose-prevention/resources": {}
+      },
+      "https://www.samhsa.gov/substance-use/treatment/resources": {
+        "https://www.samhsa.gov/substance-use/treatment/resources/kap": {
+          "https://www.samhsa.gov/substance-use/treatment/resources/kap/about": {},
+          "https://www.samhsa.gov/substance-use/treatment/resources/kap/brochures": {},
+          "https://www.samhsa.gov/substance-use/treatment/resources/kap/consumer-products": {},
+          "https://www.samhsa.gov/substance-use/treatment/resources/kap/ebooks": {},
+          "https://www.samhsa.gov/substance-use/treatment/resources/kap/resources": {}
+        },
+        "https://www.samhsa.gov/substance-use/treatment/resources/provider-support": {
+          "https://www.samhsa.gov/substance-use/treatment/resources/provider-support/core-curriculum": {}
+        }
+      },
+      "https://www.samhsa.gov/substance-use/treatment/sbirt": {
+        "https://www.samhsa.gov/substance-use/treatment/sbirt/coding": {}
+      },
+      "https://www.samhsa.gov/substance-use/treatment/statutes-regulations-guidelines": {
+        "https://www.samhsa.gov/substance-use/treatment/statutes-regulations-guidelines/mat-act": {},
+        "https://www.samhsa.gov/substance-use/treatment/statutes-regulations-guidelines/mate-act": {
+          "https://www.samhsa.gov/substance-use/treatment/statutes-regulations-guidelines/mate-act/curricular-elements-training": {},
+          "https://www.samhsa.gov/substance-use/treatment/statutes-regulations-guidelines/mate-act/medical-membership": {}
+        }
+      },
+      "https://www.samhsa.gov/substance-use/treatment/stigma-language": {}
+    },
+    "https://www.samhsa.gov/substance-use/treatmentt": {
+      "https://www.samhsa.gov/substance-use/treatmentt/overdose-prevention": {
+        "https://www.samhsa.gov/substance-use/treatmentt/overdose-prevention/resources": {}
+      }
+    },
+    "https://www.samhsa.gov/substance-use/what-is-sud": {}
+  }
+}

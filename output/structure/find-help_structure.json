@@ -1,0 +1,12 @@
+{
+  "https://www.samhsa.gov/find-help": {
+    "https://www.samhsa.gov/find-help/disaster-distress-helpline": {},
+    "https://www.samhsa.gov/find-help/disasters": {},
+    "https://www.samhsa.gov/find-help/helplines": {
+      "https://www.samhsa.gov/find-help/helplines/disaster-distress-helpline": {},
+      "https://www.samhsa.gov/find-help/helplines/linea-nacional-ayuda": {},
+      "https://www.samhsa.gov/find-help/helplines/national-helpline": {}
+    },
+    "https://www.samhsa.gov/find-help/national-helpline": {}
+  }
+}

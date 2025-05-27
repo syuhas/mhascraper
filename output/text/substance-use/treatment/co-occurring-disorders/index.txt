@@ -1,0 +1,119 @@
+Title
+
+Co-Occurring Disorders and Other Health Conditions
+--------------------------------------------------
+Intro
+
+Mental health and substance use disorders affect people from all walks of life and all age groups. These illnesses are common, recurrent, and often serious, but they are treatable and many people do recover. Mental disorders involve changes in thinking, mood, and/or behavior. These disorders can affect how we relate to others and make choices. Reaching a level that can be formally diagnosed often depends on a reduction in a person’s ability to function as a result of the disorder. For example:
+  - Serious mental illness is defined by someone over 18 having (within the past year) a diagnosable mental, behavior, or emotional disorder that causes serious functional impairment that substantially interferes with or limits one or more major life activities.
+  - For people under the age of 18, the term “Serious Emotional Disturbance” refers to a diagnosable mental, behavioral, or emotional disorder in the past year, which resulted in functional impairment that substantially interferes with or limits the child’s role or functioning in family, school, or community activities.
+  - Substance use disorders occur when the recurrent use of alcohol and/or drugs causes clinically significant impairment, including health problems, disability, and failure to meet major responsibilities at work, school, or home.
+
+What are Co-Occurring Disorders?
+--------------------------------
+
+The coexistence of both a mental health disorder and a substance use disorder (SUD) is referred to as co-occurring disorders. Co-occurring disorders may include any combination of two or more SUDs and mental disorders identified in the
+Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5-TR)
+. Importantly, no specific combinations of mental and substance use disorders are uniquely defined as co-occurring disorders.
+
+According to SAMHSA’s
+2022 National Survey on Drug Use and Health
+, approximately 21.5 million adults in the United States have a co-occurring disorder. People with mental illness are at a higher risk of developing an SUD compared to those without mental illness. Similarly, individuals with substance use disorders are particularly vulnerable to developing primary conditions or chronic diseases.
+
+It is important to note that combining medications used for treating SUDs with anxiety treatment medications—such as
+benzodiazepines
+—can have serious adverse effects. Common benzodiazepines include Xanax, Valium, and Klonopin, among others.
+The most common mental disorders:
+
+The most common mental disorders:
+  - Anxiety and mood disorders
+  - Schizophrenia
+  - Bipolar disorder
+  - Major depressive disorder
+  - Conduct disorders
+  - Post-traumatic stress disorder
+  - Attention deficit hyperactivity disorder
+Patients being treated for mental disorders often misuse the following types of substances:
+
+Patients being treated for mental disorders often misuse the following types of substances:
+  - Alcohol
+  - Tobacco
+  - Opioids
+  - Stimulants
+  - Marijuana
+  - Hallucinogens
+  - Prescription drugs
+HIV, AIDS, and Viral Hepatitis
+
+HIV, AIDS, and Viral Hepatitis
+------------------------------
+
+HIV, AIDS, and
+viral hepatitis
+are important public health concerns for both patients and health professionals in substance use disorder treatment programs. Use of medications for SUD treatment typically involves HIV and hepatitis antibody testing at admission, or a referral for antibody testing.
+
+HIV and hepatitis prevention and reduced transmission are key goals of OTPs and other programs designed to treat substance use disorders. In addition, HIV testing and risk-reduction counseling, have been shown to stop or decrease drug use and related risk behaviors, including risky injection practices and unsafe sex.
+
+HIV and AIDS in Treatment
+-------------------------
+
+Drug use is an important driver of the HIV epidemic. According to the CDC’s HIV and Injection Drug Use, about 1 in 10 new HIV diagnoses in the United States are attributed to injection drug use (2,492 cases) and male-to-male sexual contact and injection drug use (1,372 cases). CDC reports that in 2018, adult and adolescent people who inject drugs in the US accounted for 10 percent of all new HIV diagnoses.
+
+HIV is transmitted by contact with the blood or other body fluids of an infected person. This can occur during unprotected sex or through the sharing of needles. In addition, untreated infected women can pass HIV to their infants during pregnancy, delivery, and breastfeeding. Alcohol and drug misuse can also worsen the symptoms of HIV, causing greater neuronal injury and cognitive impairment.
+
+Hepatitis in Treatment
+----------------------
+
+There are three major strains of
+hepatitis virus infection
+: hepatitis A, hepatitis B, and hepatitis C. People at high risk for infection can be protected by vaccination against hepatitis A and hepatitis B. Currently, there is no vaccination against hepatitis C.
+  - Hepatitis A– A self-limiting foodborne pathogen, can induce severe liver disease in drug users already infected with another hepatitis virus.
+  - Hepatitis B– Can be spread through sexual contact, blood transfusions, or by the re-use of contaminated needles.
+  - HepatitisC– Injection drug use is the major source of hepatitis C infection in the United States, and a risk factor for contracting and spreading hepatitis C.
+
+Related Resources
+-----------------
+Find Help
+Publications
+Websites
+  - Opioid Treatment Program Directory
+  - FindTreatment.gov
+  - Buprenorphine Practitioner Locator
+  - SAMHSA's National Helpline
+  - 988 Suicide & Crisis Lifeline
+  - Advisory: Treatment Substance Use Disorders Among People with HIV (based on TIP 37)
+  - TIP 53: Addressing Viral Hepatitis in People With Substance Use Disorders
+  - Ending the HIV Epidemic
+  - What is Viral Hepatitis
+  - National Institute on Drug Abuse (NIDA)
+  - National Institute of Mental Health (NIMH)
+
+Find Help
+---------
+  - Opioid Treatment Program Directory
+  - FindTreatment.gov
+  - Buprenorphine Practitioner Locator
+  - SAMHSA's National Helpline
+  - 988 Suicide & Crisis Lifeline
+
+Publications
+------------
+  - Advisory: Treatment Substance Use Disorders Among People with HIV (based on TIP 37)
+  - TIP 53: Addressing Viral Hepatitis in People With Substance Use Disorders
+
+Websites
+--------
+  - Ending the HIV Epidemic
+  - What is Viral Hepatitis
+  - National Institute on Drug Abuse (NIDA)
+  - National Institute of Mental Health (NIMH)
+
+Related Pages
+-------------
+Learn About Substance Use
+Prevention of Substance Use and Mental Disorders
+Screening and Treatment of Co-Occurring Disorders
+RecoverMe: Substance Use and Mental Health
+Substance Use Disorder Treatment Options
+Last Updated
+Last Updated: 03/29/2024

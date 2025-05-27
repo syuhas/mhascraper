@@ -1,0 +1,631 @@
+Views: Multipurpose
+
+Buprenorphine Practitioner Locator
+----------------------------------
+
+Find practitioners authorized to treat opioid dependency with buprenorphine by state.
+
+Select a state from the map or use the dropdown lists to view practitioners by city, state or zip code who previously held a DATA-2000 waiver to prescribe buprenorphine for the treatment of opioid use disorder (OUD).
+
+The Consolidated Appropriations Act, 2023 eliminated the waiver and extended the ability to prescribe buprenorphine for the treatment of OUD to all practitioners with DEA Schedules II-V on their DEA Registration.
+
+Therefore,
+this list is not inclusive of all practitioners able to prescribe buprenorphine
+. In addition, please note that this list also only contains the contact information for practitioners who consent to release their practice information.
+
+Practitioners are responsible for ensuring their contact information is accurate
+. To update practice information, please email
+providersupport@samhsa.hhs.gov
+and include your name, DEA number, state license number, and all new contact information, to include full address, phone, fax, and email. Please note that if you are on the Buprenorphine Practitioner Locator, you should only use a service address. If you are updating your DEA number or state license, please include an electronic copy with your request.
+SAMHSA Bup Locator Map
+Distance from ZIP
+Distance from ZIP
+# Miles
+5 Miles
+10 Miles
+25 Miles
+50 Miles
+100 Miles
+ZIP Code
+Address, City, Zip-Code, Country, ...
+City
+State
+- Any -
+Alabama
+Alaska
+American Samoa
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Fed. States of Micronesia
+Florida
+Georgia
+Guam
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Marshall Islands
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Northern Mariana Islands
+Ohio
+Oklahoma
+Oregon
+Palau
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Virgin Islands
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Armed Forces America (Except Canada)
+Armed Forces Africa / Canada / Europe / Middle East
+Armed Forces Pacific
+First
+Last
+Sub Type
+Address
+City
+State
+Postal Code
+Telephone
+Address Complement
+County
+Fax
+Douglas
+Schroer
+CNS
+3823 trueman court
+Hilliard
+OH
+43026
+614-876-9558
+FRANKLIN
+614-876-9570
+Carolyn
+Kassinger
+NP
+1620 Frederica Street
+Owensboro
+KY
+42301
+270-240-5696
+DAVIESS
+270-240-5697
+Michelle
+Underwood
+PA
+4705 Montgomery Boulevard
+Albuquerque
+NM
+87109
+505-727-4500
+BERNALILLO
+Alvaro
+Roberts
+NP
+1201 Broadrock Boulevard
+Richmond
+VA
+23249
+804-675-5000
+RICHMOND CITY
+804-675-5678
+Wendy
+Dell
+NP
+Seattle King County Department of Public Health
+Seattle
+WA
+98121
+206-477-8300
+2124 4th Avenue
+KING
+206-205-1069
+Phillip
+Stover
+MD/DO
+113 Jolly Street
+Louisburg
+NC
+27549
+919-496-1247
+FRANKLIN
+919-496-3307
+William
+Joyce
+PA
+4500 West Midway Road
+Fort Pierce
+FL
+34981
+772-672-8448
+ST LUCIE
+772-468-4034
+Steven
+Morgan
+MD/DO
+3183 W. State Street
+Bristol
+TN
+37620
+423-764-2165
+Suite 1201
+SULLIVAN
+423-776-4071 7
+Earl
+Wilson
+MD/DO
+3183 West State Street
+Bristol
+TN
+37620
+423-764-0987
+Suite 1201
+SULLIVAN
+423-764-0717
+Eugene
+Marciniak
+MD/DO
+1170 North Solano Drive
+Las Cruces
+NM
+88001
+505-528-5137
+Suite K
+DONA ANA
+505-528-6024
+Giridhar
+Singh
+MD/DO
+Neuro Biological Recovery Center
+Dublin
+OH
+43016
+855-438-6272
+6205 Emerald Parkway
+FRANKLIN
+614-734-7000
+Scott
+Erickson
+MD/DO
+440 South Medical Drive
+Bountiful
+UT
+84010
+801-294-8288
+Suite 4
+DAVIS
+801-294-8488
+Kurt
+Gold
+MD/DO
+7919 Wakeley Plaza
+Omaha
+NE
+68114
+402-933-2016
+DOUGLAS
+402-393-8369
+Andrew
+Leifer
+MD/DO
+1202 Bergen Parkway
+Evergreen
+CO
+80439
+303-674-6074
+Suite 211
+JEFFERSON
+303-831-9601
+Charles
+Park
+MD/DO
+950 South Cherry Street
+Denver
+CO
+80246
+720-209-8537
+Suite 410
+ARAPAHOE
+303-487-7868
+Sandra
+Loftin
+MD/DO
+4155 East Jewell Avenue
+Denver
+CO
+80222
+303-993-5288
+Suite 1004
+DENVER
+Robert
+Sammons
+MD/DO
+1400 North 7th Street
+Grand Junction
+CO
+81501
+970-241-1983
+MESA
+970-242-6135
+Beth
+Tranen
+MD/DO
+3601 S. 6th St
+Tucson
+AZ
+85723
+520-792-1450
+PIMA
+Irene
+Gurvits
+MD/DO
+102 West 75th Street
+New York
+NY
+10023
+212-874-5400
+Unit 107
+NEW YORK
+212-874-1560
+Nallu
+Reddy
+MD/DO
+2727 Bolton Boone Drive
+Desoto
+TX
+75115
+972-780-0357
+Suite 111
+DALLAS
+Michael
+Crooks
+MD/DO
+179 Cedar Lane
+Teaneck
+NJ
+07666
+301-638-5078
+BERGEN
+Regina
+Belkin
+MD/DO
+348 13th Street
+Brooklyn
+NY
+11215
+718-622-7800
+Suite 201
+KINGS
+718-636-2902
+Anthony
+Haywood
+MD/DO
+Route 50 East
+Romney
+WV
+26757
+304-822-7866
+P.O. Box 2030
+HAMPSHIRE
+304-822-7503
+John
+Hill
+MD/DO
+602 West University Avenue
+Urbana
+IL
+61801
+217-383-6039
+CHAMPAIGN
+217-383-4625
+Roy
+Miller
+MD/DO
+Sheepscot Valley Health Center
+Whitefield
+ME
+04353
+207-549-7581
+47 Main Street, P.O. Box 207
+LINCOLN
+207-549-3447
+David
+Wood
+MD/DO
+4804 26th Street West
+Bradenton
+FL
+34207
+941-753-5730
+MANATEE
+941-753-5737
+Rodney
+Brunson
+MD/DO
+201 Tilton Road
+Northfield
+NJ
+08225
+609-484-7000
+Suite 12
+ATLANTIC
+609-484-1533
+Hicham
+Siouty
+MD/DO
+23600 Telo Avenue
+Torrance
+CA
+90505
+310-325-3084
+LOS ANGELES
+Benjamin
+Bryan
+MD/DO
+51 E 25TH ST STE 7F
+New York
+NY
+10010
+646-246-0525
+NEW YORK
+646-478-9072
+Damon
+Raskin
+MD/DO
+17383 W. Sunset Blvd
+Pacific Palisades
+CA
+90272-9140
+310-459-4333
+SUITE B280
+LOS ANGELES
+310-230-1953
+Lilian
+Aldana-Bernier
+MD/DO
+Universal Medical Care
+Ozone Park
+NY
+11416
+718-845-6500
+92-17 101st Avenue
+QUEENS
+Istvan
+Boksay
+MD/DO
+564 First Avenue
+New York
+NY
+10016
+212-263-7634
+Apartment 20-S
+NEW YORK
+212-263-6991
+Peter
+Hurtubise
+MD/DO
+6 N. Penryn Road
+Manheim
+PA
+17545
+717-665-4963
+Suite 205
+LANCASTER
+717-665-4970
+Igor
+Gefter
+MD/DO
+19-21 Fair Lawn Avenue
+Fair Lawn
+NJ
+07410
+201-468-8808
+Suite 2 E
+BERGEN
+201-815-2520
+Vasudev
+Makhija
+MD/DO
+812 North Wood Avenue
+Linden
+NJ
+07036
+908-486-6666
+Suite 102
+UNION
+908-486-6088
+Joseph
+Colucci
+MD/DO
+99 Grand Avenue
+Massapequa
+NY
+11758
+516-541-9700
+NASSAU
+Chong
+Park
+MD/DO
+775 Bloomfield Avenue
+Montclair
+NJ
+07042
+973-509-3401
+ESSEX
+973-655-1560
+Nirmala
+Rajakumar
+MD/DO
+UMDNJ
+Newark
+NJ
+07103
+973-972-7734
+150 Bergen Street, G-Yellow, Unit 300
+ESSEX
+973-972-3399
+Lalitakala
+Sundar
+MD/DO
+Bronx Psychiatric Center
+Bronx
+NY
+10461
+718-862-5442
+1500 Waters Place
+BRONX
+718-862-4889
+Greg
+Brown
+MD/DO
+15 MAREBLU
+Aliso Viejo
+CA
+92656
+949-495-4305
+Suite 350
+ORANGE
+949-389-9800
+Khanh
+Nguyen
+MD/DO
+13830 Brookhurst Street
+Garden Grove
+CA
+92843
+714-467-4330
+ORANGE
+714-534-4575
+Denise
+Bridgeford
+MD/DO
+1539 West Garvey Avenue, North
+West Covina
+CA
+91790
+626-814-6500
+LOS ANGELES
+626-814-6505
+Peggy
+Finston
+MD/DO
+208 Monmouth Road
+Oakhurst
+NJ
+07755
+732-703-1332
+MONMOUTH
+732-703-1332
+Terry
+Jordan
+MD/DO
+2208 Hwy 39 N
+Meridian
+MS
+39301
+601-482-2400
+LAUDERDALE
+601-485-2310
+Douglas
+Schaller
+MD/DO
+1419 Superior Avenue
+Newport Beach
+CA
+92663
+949-650-0587
+Suite 1
+ORANGE
+949-631-8155
+Nimish
+Shah
+MD/DO
+21520 South Pioneer Boulevard
+Hawaiian Gardens
+CA
+90716
+562-402-2811
+Suite 202
+LOS ANGELES
+562-402-1505
+Allison
+Hanley
+MD/DO
+5979 Vineland Road
+Orlando
+FL
+32819
+407-352-1030
+Suite 209
+ORANGE
+407-352-2884
+Lawrence
+Bryskin
+MD/DO
+157 East 80th Street
+New York
+NY
+10075
+212-628-7849
+NEW YORK
+212-722-4251
+Kevin
+Cotterell
+MD/DO
+South Oaks Hospital
+Amityville
+NY
+11701
+631-608-5225
+400 Sunrise Highway
+SUFFOLK
+631-608-4112
+Fitzroy
+Elliott
+MD/DO
+115 West 116 Street
+New York
+NY
+10026
+212-961-5725
+NEW YORK
+212-865-3581
+
+Displaying 1 - 50 out of 49811
+Get CSV of Full List
+Last Updated
+Last Updated: 11/19/2024

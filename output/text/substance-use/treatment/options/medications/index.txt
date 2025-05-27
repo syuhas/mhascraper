@@ -1,0 +1,131 @@
+Title
+
+Medications, Counseling, and Related Conditions
+-----------------------------------------------
+Intro
+
+Medications for Substance Use Disorders
+---------------------------------------
+
+The
+Food and Drug Administration (FDA)
+has approved several different medications to treat Alcohol and Opioid Use Disorders. These medications relieve withdrawal symptoms and psychological cravings that cause chemical imbalances in the body. Medications used for treatment are evidence-based treatment options.
+
+Some of the medications used as part of a treatment protocol are controlled substances due to their potential for misuse. Drugs, substances, and certain chemicals used to make drugs are classified by the
+Drug Enforcement Administration (DEA)
+into five distinct categories, or schedules, depending upon a drug’s acceptable medical use and potential for misuse. Learn more about
+DEA drug schedules
+.
+
+Medications for Alcohol Use Disorder (MAUD)
+-------------------------------------------
+
+Acamprosate, disulfiram, and naltrexone are the most common drugs used to treat alcohol use disorder (AUD). They do not provide a cure for the disorder but are most effective in people who participate in a MAUD program.
+  - Acamprosate- for people in recovery, who are no longer drinking alcohol and want to avoid drinking. It works to prevent people from drinking alcohol, but it does not prevent withdrawal symptoms after people drink alcohol. The use of acamprosate typically begins on the fifth day of abstinence, reaching full effectiveness in five to eight days. It is taken in tablet form three times a day.
+  - Disulfiram- treats chronic alcoholism and is most effective in people who have already stopped drinking alcohol or are in the initial stage of abstinence. Taken in a tablet form once a day, disulfiram should never be taken while intoxicated and it should not be taken for at least 12 hours after drinking alcohol. Unpleasant side effects (nausea, headache, vomiting, chest pains, difficulty breathing) can occur as soon as ten minutes after drinking even a small amount of alcohol.
+  - Naltrexone- blocks the euphoric effects and feelings of intoxication and allows people with alcohol use disorders to reduce alcohol use and to remain motivated to continue to take the medication, stay in treatment, and avoid relapses.
+Extra
+
+SAMHSA funds the
+Providers Clinical Support System – Medications for Alcohol Use Disorders (PCSS-MAUD)
+to provide free training and mentoring to medical practitioners to identify and treat alcohol use disorder.
+
+To learn more about medications for AUD read
+Medication for the Treatment of Alcohol Use Disorder: A Brief Guide
+and
+TIP 49: Incorporating Alcohol Pharmacotherapies Into Medical Practice
+.
+MOUD
+
+Medications for Opioid Use Disorder (MOUD)
+------------------------------------------
+
+Buprenorphine, methadone, and naltrexone are used to treat opioid use disorders (OUD) to short-acting opioids such as heroin, morphine, and codeine, as well as semi-synthetic opioids like oxycodone and hydrocodone. These medications are safe to use for months, years, or even a lifetime. As with any medication, consult your doctor before discontinuing use.
+  - Buprenorphine- suppresses and reduces cravings for opioids.
+  - Methadone- reduces opioid cravings and withdrawal and blunts or blocks the effects of opioids.
+  - Naltrexone- blocks the euphoric and sedative effects of opioids and prevents feelings of euphoria.
+
+To learn more about medications for OUD read
+TIP 63: Medications for Opioid Use Disorder
+.
+
+SAMHSA funds the
+Providers Clinical Support System – Medications for Opioid Use Disorders (PCSS-MOUD)
+to provide free training and mentoring to medical practitioners to identify and treat opioid use disorder.
+
+Opioid Overdose Prevention Medication
+-------------------------------------
+
+Naloxone and nalmefene are both FDA-approved opioid overdose reversal medications (OORMs) that saves lives by reversing the toxic effects of overdose. According to the World Health Organization (WHO), naloxone is one of a number of
+medications considered essential to a functioning health care system
+.
+  - Naloxone– used to prevent opioid overdose, naloxone reverses the toxic effects of the overdose. In March 2023, the FDA approved naloxone nasal spray as the first over the counter OORM and is available in many pharmacies, through community-based distribution programs, local public health organizations or local health departments, free of charge.
+  - Nalmefene– an FDA-approved OORM nasal spray that is available by prescription only and is intended for use in health care and community settings for individuals who are 12 years old and over.
+
+PCSS-MAUD Mini Video Series
+---------------------------
+
+PCSS-MAUD created a Mini Video Series on the three FDA-approved medications for alcohol use disorder (MAUD). Healthcare practitioners can view the three videos on acamprosate, disulfiram, and naltrexone to learn about each of the medications and the benefits to using them when treating patients with AUD.
+Watch the Videos
+
+Opioid Treatment Program Directory
+----------------------------------
+
+Find treatment programs in your state that treat addiction and dependence on opioids.
+Search Directory
+Outro
+
+Counseling and Behavioral Therapies
+-----------------------------------
+
+Under federal law
+42 CFR 8.12
+, opioid treatment programs (OTPs) must be able to provide counseling, along with medical, vocational, educational, and other assessment and treatment services. Learn more about these
+treatments for substance use disorders
+.
+
+Regardless of what setting medication is provided, it is more effective when counseling and other services are available to provide patients with a whole-person approach and to support their recovery.
+
+Co-Occurring Disorders and Other Health Conditions
+--------------------------------------------------
+
+The coexistence of both a substance use disorder and a mental illness, known as
+co-occurring disorders
+, is common among people with Substance Use Disorders. In addition, individuals may have other health related conditions such a hepatitis, HIV and AIDS.
+
+Training and Resources
+----------------------
+
+SAMHSA offers tools, training, and technical assistance to practitioners in the fields of mental health and substance use disorders. Find information on SAMHSA
+training and resources
+.
+
+Need Help?
+  - If you, or someone you know, need help to stop using substances – whether the problem is methamphetamine, alcohol or another drug – callSAMHSA’s National Helplineat1-800-662-HELP(4357) or TTY:1-800-487-4889
+  - FindTreatment.gov– this locator provides information on state-licensed providers who specialize in treating substance use disorders and mental illness.
+  - Buprenorphine Practitioner Locator- Find practitioners authorized to treat opioid dependency with buprenorphine by state.
+
+Contact Information
+-------------------
+
+Opioid Treatment Program Contacts
+For information about Medications for Opioid Use Disorder (MOUD) or the certification of opioid treatment programs (OTPs), contact the SAMHSA Division of Pharmacologic Therapies at
+240-276-2700
+or
+DPT@SAMHSA.HHS.Gov
+. For assistance with the Opioid Treatment Program Extranet, contact the OTP helpdesk at
+1-866-348-5741
+or
+OTP-Help@jbsinternational.com
+.
+
+Provider Support Contacts
+For general information, providers can contact SAMHSA's Center for Substance Abuse Treatment (CSAT) at
+1-866-287-2728
+or email
+providersupport@samhsa.hhs.gov
+. For clinical questions or mentoring, contact
+pcssnow.org
+.
+Last Updated
+Last Updated: 03/28/2024
