@@ -1,0 +1,920 @@
+Visiting: https://www.equaltreatmentmd.org/about-the-coalition
+
+🔎 Tag: h1#.
+
+🔍 Checking line: 'About Us'
+✅ Adding line: 'About Us'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'The Maryland Behavioral Health Coalition is\xa0a diverse mix of 80+ nonprofit organizations working together to increase access to high quality mental health and substance use treatment, services, and supports.'
+✅ Adding line: 'The Maryland Behavioral Health Coalition is\xa0a diverse mix of 80+ nonprofit organizations working together to increase access to high quality mental health and substance use treatment, services, and supports.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'We work to improve coordination and treatment for behavioral and physical health conditions to ensure every Marylander has the health care they need to live a safe and fulfilling life.'
+✅ Adding line: 'We work to improve coordination and treatment for behavioral and physical health conditions to ensure every Marylander has the health care they need to live a safe and fulfilling life.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'We use advocacy and public awareness to increase the power of the behavioral health community. Our unified voice is stronger than our individual organizations.'
+✅ Adding line: 'We use advocacy and public awareness to increase the power of the behavioral health community. Our unified voice is stronger than our individual organizations.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'Equal Treatment Maryland is a coordinated effort to educate elected officials about the rising demand for mental health and substance use care. The campaign is working to enact policies to ensure all Marylanders have access to quality behavioral health care when and where needed.'
+✅ Adding line: 'Equal Treatment Maryland is a coordinated effort to educate elected officials about the rising demand for mental health and substance use care. The campaign is working to enact policies to ensure all Marylanders have access to quality behavioral health care when and where needed.'
+
+🔎 Tag: h1#.
+
+🔍 Checking line: 'Our Members'
+✅ Adding line: 'Our Members'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Adventist HealthCare Behavioral Health & Wellness Services'
+✅ Adding line: 'Adventist HealthCare Behavioral Health & Wellness Services'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Affiliated Sante Group'
+✅ Adding line: 'Affiliated Sante Group'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Alzheimer’s Association of Greater Maryland'
+✅ Adding line: 'Alzheimer’s Association of Greater Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'American College of Emergency Physicians, Maryland Chapter'
+✅ Adding line: 'American College of Emergency Physicians, Maryland Chapter'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'American Foundation for Suicide Prevention, Maryland Chapter'
+✅ Adding line: 'American Foundation for Suicide Prevention, Maryland Chapter'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Anne Arundel County Mental Health Agency'
+✅ Adding line: 'Anne Arundel County Mental Health Agency'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Arundel Lodge'
+✅ Adding line: 'Arundel Lodge'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Baltimore City Substance Abuse Directorate'
+✅ Adding line: 'Baltimore City Substance Abuse Directorate'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Baltimore Crisis Response'
+✅ Adding line: 'Baltimore Crisis Response'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Baltimore Harm Reduction Coalition'
+✅ Adding line: 'Baltimore Harm Reduction Coalition'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Baltimore Jewish Council'
+✅ Adding line: 'Baltimore Jewish Council'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Behavioral Health System Baltimore'
+✅ Adding line: 'Behavioral Health System Baltimore'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'B’More Clubhouse'
+✅ Adding line: 'B’More Clubhouse'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Brain Injury Association of Maryland'
+✅ Adding line: 'Brain Injury Association of Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Catholic Charities of Baltimore'
+✅ Adding line: 'Catholic Charities of Baltimore'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Center for Addiction Medicine'
+✅ Adding line: 'Center for Addiction Medicine'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Chesapeake Voyagers'
+✅ Adding line: 'Chesapeake Voyagers'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Community Behavioral Health Association of Maryland'
+✅ Adding line: 'Community Behavioral Health Association of Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Community Crisis Services'
+✅ Adding line: 'Community Crisis Services'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Cornerstone Montgomery'
+✅ Adding line: 'Cornerstone Montgomery'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Disability Rights Maryland'
+✅ Adding line: 'Disability Rights Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Eastern Shore Crisis Response Services'
+✅ Adding line: 'Eastern Shore Crisis Response Services'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Easterseals DC MD VA'
+✅ Adding line: 'Easterseals DC MD VA'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'EveryMind'
+✅ Adding line: 'EveryMind'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Family Services, Inc.'
+✅ Adding line: 'Family Services, Inc.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Gaudenzia'
+✅ Adding line: 'Gaudenzia'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Good Samaritan Hospital Division of Psychiatry'
+✅ Adding line: 'Good Samaritan Hospital Division of Psychiatry'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Grassroots Crisis Intervention Center'
+✅ Adding line: 'Grassroots Crisis Intervention Center'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Harford-Belair Community Mental Health Center'
+✅ Adding line: 'Harford-Belair Community Mental Health Center'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Health Care for the Homeless'
+✅ Adding line: 'Health Care for the Homeless'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Healthy Harford / Healthy Cecil'
+✅ Adding line: 'Healthy Harford / Healthy Cecil'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Horizon Foundation'
+✅ Adding line: 'Horizon Foundation'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Hudson Health Services'
+✅ Adding line: 'Hudson Health Services'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'IBR/Reach Health Services'
+✅ Adding line: 'IBR/Reach Health Services'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'James’ Place Inc.'
+✅ Adding line: 'James’ Place Inc.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Jewish Community Services'
+✅ Adding line: 'Jewish Community Services'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Key Point Health Services'
+✅ Adding line: 'Key Point Health Services'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Legal Action Center'
+✅ Adding line: 'Legal Action Center'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Licensed Clinical Professional Counselors of Maryland'
+✅ Adding line: 'Licensed Clinical Professional Counselors of Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Addictions Directors Council'
+✅ Adding line: 'Maryland Addictions Directors Council'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Association for the Treatment of Opioid Dependence'
+✅ Adding line: 'Maryland Association for the Treatment of Opioid Dependence'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Association of Behavioral Health Authorities'
+✅ Adding line: 'Maryland Association of Behavioral Health Authorities'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Association for Partial Hospital and Intensive Outpatient Programs'
+✅ Adding line: 'Maryland Association for Partial Hospital and Intensive Outpatient Programs'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Association of Resources for Families and Youth'
+✅ Adding line: 'Maryland Association of Resources for Families and Youth'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Association of Youth Service Bureaus'
+✅ Adding line: 'Maryland Association of Youth Service Bureaus'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Catholic Conference'
+✅ Adding line: 'Maryland Catholic Conference'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Clinical Social Work Coalition'
+✅ Adding line: 'Maryland Clinical Social Work Coalition'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Coalition of Families'
+✅ Adding line: 'Maryland Coalition of Families'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland & DC Society of Addiction Medicine'
+✅ Adding line: 'Maryland & DC Society of Addiction Medicine'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Family Network'
+✅ Adding line: 'Maryland Family Network'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Hospital Association'
+✅ Adding line: 'Maryland Hospital Association'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Nonprofits'
+✅ Adding line: 'Maryland Nonprofits'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Nurses Association'
+✅ Adding line: 'Maryland Nurses Association'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Occupational Therapy Association'
+✅ Adding line: 'Maryland Occupational Therapy Association'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Public Health Association'
+✅ Adding line: 'Maryland Public Health Association'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Psychiatric Society'
+✅ Adding line: 'Maryland Psychiatric Society'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Psychological Association'
+✅ Adding line: 'Maryland Psychological Association'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Rural Health Association'
+✅ Adding line: 'Maryland Rural Health Association'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Mental Health Association of Frederick County'
+✅ Adding line: 'Mental Health Association of Frederick County'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Mental Health Association of Maryland'
+✅ Adding line: 'Mental Health Association of Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Mental Health Association of the Eastern Shore'
+✅ Adding line: 'Mental Health Association of the Eastern Shore'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Mid Shore Behavioral Health'
+✅ Adding line: 'Mid Shore Behavioral Health'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Montgomery County Federation of Families for Children’s Mental Health'
+✅ Adding line: 'Montgomery County Federation of Families for Children’s Mental Health'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'NAMI Maryland'
+✅ Adding line: 'NAMI Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'National Association of Social Workers Maryland Chapter'
+✅ Adding line: 'National Association of Social Workers Maryland Chapter'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'National Council on Alcoholism and Drug Dependence (NCADD) Maryland'
+✅ Adding line: 'National Council on Alcoholism and Drug Dependence (NCADD) Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Nexus-Woodbourne Family Healing'
+✅ Adding line: 'Nexus-Woodbourne Family Healing'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Office on Mental Health/Core Service Agency of Harford County'
+✅ Adding line: 'Office on Mental Health/Core Service Agency of Harford County'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'On Our Own of Maryland'
+✅ Adding line: 'On Our Own of Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'People Encouraging People'
+✅ Adding line: 'People Encouraging People'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Primary Care Coalition of Montgomery County'
+✅ Adding line: 'Primary Care Coalition of Montgomery County'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Pro Bono Counseling Project'
+✅ Adding line: 'Pro Bono Counseling Project'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Prologue'
+✅ Adding line: 'Prologue'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Public Justice Center'
+✅ Adding line: 'Public Justice Center'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'R.I. International'
+✅ Adding line: 'R.I. International'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Rock Creek Foundation'
+✅ Adding line: 'Rock Creek Foundation'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'The Shepherd’s Table'
+✅ Adding line: 'The Shepherd’s Table'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Sheppard Pratt'
+✅ Adding line: 'Sheppard Pratt'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Springboard Community Services'
+✅ Adding line: 'Springboard Community Services'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Totally Linking Care in Maryland'
+✅ Adding line: 'Totally Linking Care in Maryland'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Trauma Informed, Inc'
+✅ Adding line: 'Trauma Informed, Inc'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Voices of Hope'
+✅ Adding line: 'Voices of Hope'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Way Station'
+✅ Adding line: 'Way Station'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Wells House'
+✅ Adding line: 'Wells House'
+📝 Saved HTML: output/html/about-the-coalition/about-the-coalition.html
+📄 Saved Text: output/text/about-the-coalition/about-the-coalition.txt
+Visiting: https://www.equaltreatmentmd.org/newsletter
+
+🔎 Tag: h1#.
+
+🔍 Checking line: 'Equal Treatment Maryland News'
+✅ Adding line: 'Equal Treatment Maryland News'
+
+🔎 Tag: h3#.
+
+🔍 Checking line: 'Our newsletter has all the information you need about the Equal Treatment Maryland priorities, progress, and ways to provide support.'
+✅ Adding line: 'Our newsletter has all the information you need about the Equal Treatment Maryland priorities, progress, and ways to provide support.'
+
+🔎 Tag: h3#.
+
+🔍 Checking line: 'Sign up to receive our newsletter. (https://www.equaltreatmentmd.org/join-us) Sign up to receive our newsletter.'
+✅ Adding line: 'Sign up to receive our newsletter. (https://www.equaltreatmentmd.org/join-us) Sign up to receive our newsletter.'
+
+🔎 Tag: h1#.['blog-title']
+
+🔍 Checking line: 'Equal Treatment Maryland 2023 Post Session Report (https://www.equaltreatmentmd.org/newsletter/equal-treatment-maryland-2023-post-session-report) Equal Treatment Maryland 2023 Post Session Report'
+✅ Adding line: 'Equal Treatment Maryland 2023 Post Session Report (https://www.equaltreatmentmd.org/newsletter/equal-treatment-maryland-2023-post-session-report) Equal Treatment Maryland 2023 Post Session Report'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Prior to the session the Maryland Behavioral Health Coalition launched Equal Treatment Maryland, a new campaign to ensure access to quality mental health and substance use care when and where needed. Campaign partners rallied successfully this year around the 2023 Behavioral Health Crisis Prevention Platform – a set of community-based reforms and workforce initiatives designed to improve behavioral health outcomes, save money, and keep people out of crisis.'
+✅ Adding line: 'Prior to the session the Maryland Behavioral Health Coalition launched Equal Treatment Maryland, a new campaign to ensure access to quality mental health and substance use care when and where needed. Campaign partners rallied successfully this year around the 2023 Behavioral Health Crisis Prevention Platform – a set of community-based reforms and workforce initiatives designed to improve behavioral health outcomes, save money, and keep people out of crisis.'
+📝 Saved HTML: output/html/newsletter/newsletter.html
+📄 Saved Text: output/text/newsletter/newsletter.txt
+Visiting: https://www.equaltreatmentmd.org/contact-us
+
+🔎 Tag: h2#.
+
+🔍 Checking line: 'Contact Us'
+✅ Adding line: 'Contact Us'
+📝 Saved HTML: output/html/contact-us/contact-us.html
+📄 Saved Text: output/text/contact-us/contact-us.txt
+Visiting: https://www.equaltreatmentmd.org/platform
+
+🔎 Tag: h1#.
+
+🔍 Checking line: '2023 Behavioral Health Crisis Prevention Platform'
+✅ Adding line: '2023 Behavioral Health Crisis Prevention Platform'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'Marylanders should have access to culturally competent behavioral health care that promotes recovery and resiliency, outcomes should drive care delivery and efficient use of resources, and care should be available to all regardless of age, race, gender or insurance status.'
+✅ Adding line: 'Marylanders should have access to culturally competent behavioral health care that promotes recovery and resiliency, outcomes should drive care delivery and efficient use of resources, and care should be available to all regardless of age, race, gender or insurance status.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'Unfortunately, this is not currently the case. Two-thirds of Maryland’s counties qualify as federally designated mental health professional shortage areas, commercial health insurance companies in Maryland reimburse behavioral health providers nearly 20% less than other doctors for similar procedures, Maryland ranked 7th worst in the nation last year for opioid death rates, and the state has seen a 46% increase in children accessing hospital emergency departments for suicide attempts.'
+✅ Adding line: 'Unfortunately, this is not currently the case. Two-thirds of Maryland’s counties qualify as federally designated mental health professional shortage areas, commercial health insurance companies in Maryland reimburse behavioral health providers nearly 20% less than other doctors for similar procedures, Maryland ranked 7th worst in the nation last year for opioid death rates, and the state has seen a 46% increase in children accessing hospital emergency departments for suicide attempts.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'There are solutions. Community-based reforms and workforce initiatives can improve behavioral health outcomes, save money, and keep people out of crisis.'
+✅ Adding line: 'There are solutions. Community-based reforms and workforce initiatives can improve behavioral health outcomes, save money, and keep people out of crisis.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'Download our 2023 Behavioral Health Crisis Prevention Platform One-Pager. (https://www.equaltreatmentmd.org/advocacy-resources/one-pager) Download our 2023 Behavioral Health Crisis Prevention Platform One-Pager.'
+✅ Adding line: 'Download our 2023 Behavioral Health Crisis Prevention Platform One-Pager. (https://www.equaltreatmentmd.org/advocacy-resources/one-pager) Download our 2023 Behavioral Health Crisis Prevention Platform One-Pager.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'With the passage of each Equal Treatment Maryland 2023 Behavioral Health Crisis Prevention Platform priority, we have made great strides forward as a community to ensure all Marylanders have access to mental health and substance use care when and where needed. As implementation begins, we look forward to continuing this important work with advocates, providers, and consumers alike.'
+✅ Adding line: 'With the passage of each Equal Treatment Maryland 2023 Behavioral Health Crisis Prevention Platform priority, we have made great strides forward as a community to ensure all Marylanders have access to mental health and substance use care when and where needed. As implementation begins, we look forward to continuing this important work with advocates, providers, and consumers alike.'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'Our Goal: Take immediate action to address the surge in demand for community mental health and substance use care.'
+✅ Adding line: 'Our Goal: Take immediate action to address the surge in demand for community mental health and substance use care.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'How we get there: Require the Maryland Department of Health to develop and advance a plan to expand the state’s network of Certified Community Behavioral Health Clinics (CCBHCs).'
+✅ Adding line: 'How we get there: Require the Maryland Department of Health to develop and advance a plan to expand the state’s network of Certified Community Behavioral Health Clinics (CCBHCs).'
+
+🔎 Tag: li#.['accordion-item']
+
+🔍 Checking line: 'What are CCBHCs? Certified Community Behavioral Health Clinics (CCBHCs) are specially-designated, sustainably-financed, 24/7 clinics that provide a  comprehensive range of integrated, evidence-based mental health and substance use services, including 24/7 crisis response and medication-assisted treatment (MAT). Learn more about CCBHCs. (https://www.thenationalcouncil.org/program/ccbhc-success-center/ccbhc-overview/) Learn more about CCBHCs.'
+✅ Adding line: 'What are CCBHCs? Certified Community Behavioral Health Clinics (CCBHCs) are specially-designated, sustainably-financed, 24/7 clinics that provide a  comprehensive range of integrated, evidence-based mental health and substance use services, including 24/7 crisis response and medication-assisted treatment (MAT). Learn more about CCBHCs. (https://www.thenationalcouncil.org/program/ccbhc-success-center/ccbhc-overview/) Learn more about CCBHCs.'
+
+🔎 Tag: h4#.['accordion-item__title-wrapper']
+
+🔍 Checking line: 'What are CCBHCs?'
+✅ Adding line: 'What are CCBHCs?'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Certified Community Behavioral Health Clinics (CCBHCs) are specially-designated, sustainably-financed, 24/7 clinics that provide a  comprehensive range of integrated, evidence-based mental health and substance use services, including 24/7 crisis response and medication-assisted treatment (MAT).'
+✅ Adding line: 'Certified Community Behavioral Health Clinics (CCBHCs) are specially-designated, sustainably-financed, 24/7 clinics that provide a  comprehensive range of integrated, evidence-based mental health and substance use services, including 24/7 crisis response and medication-assisted treatment (MAT).'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Learn more about CCBHCs. (https://www.thenationalcouncil.org/program/ccbhc-success-center/ccbhc-overview/) Learn more about CCBHCs.'
+✅ Adding line: 'Learn more about CCBHCs. (https://www.thenationalcouncil.org/program/ccbhc-success-center/ccbhc-overview/) Learn more about CCBHCs.'
+
+🔎 Tag: li#.['accordion-item']
+
+🔍 Checking line: 'Why CCBHCs? An inability to access community-based mental health and substance use care on demand results in heavy reliance on emergency departments, law enforcement, and Maryland’s limited behavioral health crisis response system. States that have implemented CCBHCs broadly have seen increased access to care, reductions in emergency department and inpatient utilization, mitigation of behavioral health workforce challenges, higher engagement post discharge from hospitals, improved utilization of medication assisted treatment (MAT) for opioid use disorders, and improved integration with physical care. Maryland currently has five CCBHCs demonstrating strong outcomes, but they are time-limited and only available to a small number of individuals. The federal government has made $40 million available for planning grants and technical assistance to states for CCBHC expansion, and is providing four years of enhanced Medicaid match for CCBHC services.'
+✅ Adding line: 'Why CCBHCs? An inability to access community-based mental health and substance use care on demand results in heavy reliance on emergency departments, law enforcement, and Maryland’s limited behavioral health crisis response system. States that have implemented CCBHCs broadly have seen increased access to care, reductions in emergency department and inpatient utilization, mitigation of behavioral health workforce challenges, higher engagement post discharge from hospitals, improved utilization of medication assisted treatment (MAT) for opioid use disorders, and improved integration with physical care. Maryland currently has five CCBHCs demonstrating strong outcomes, but they are time-limited and only available to a small number of individuals. The federal government has made $40 million available for planning grants and technical assistance to states for CCBHC expansion, and is providing four years of enhanced Medicaid match for CCBHC services.'
+
+🔎 Tag: h4#.['accordion-item__title-wrapper']
+
+🔍 Checking line: 'Why CCBHCs?'
+✅ Adding line: 'Why CCBHCs?'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'An inability to access community-based mental health and substance use care on demand results in heavy reliance on emergency departments, law enforcement, and Maryland’s limited behavioral health crisis response system.'
+✅ Adding line: 'An inability to access community-based mental health and substance use care on demand results in heavy reliance on emergency departments, law enforcement, and Maryland’s limited behavioral health crisis response system.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'States that have implemented CCBHCs broadly have seen increased access to care, reductions in emergency department and inpatient utilization, mitigation of behavioral health workforce challenges, higher engagement post discharge from hospitals, improved utilization of medication assisted treatment (MAT) for opioid use disorders, and improved integration with physical care.'
+✅ Adding line: 'States that have implemented CCBHCs broadly have seen increased access to care, reductions in emergency department and inpatient utilization, mitigation of behavioral health workforce challenges, higher engagement post discharge from hospitals, improved utilization of medication assisted treatment (MAT) for opioid use disorders, and improved integration with physical care.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland currently has five CCBHCs demonstrating strong outcomes, but they are time-limited and only available to a small number of individuals.'
+✅ Adding line: 'Maryland currently has five CCBHCs demonstrating strong outcomes, but they are time-limited and only available to a small number of individuals.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'The federal government has made $40 million available for planning grants and technical assistance to states for CCBHC expansion, and is providing four years of enhanced Medicaid match for CCBHC services.'
+✅ Adding line: 'The federal government has made $40 million available for planning grants and technical assistance to states for CCBHC expansion, and is providing four years of enhanced Medicaid match for CCBHC services.'
+
+🔎 Tag: li#.['accordion-item']
+
+🔍 Checking line: 'Where We Are Maryland currently has very limited CCBHC coverage, with just a few programs funded by federal grants they applied for directly. These programs, however, are seeing similarly positive results. Sheppard Pratt’s CCBHC program, for example, has reduced hospital stays by nearly 50% and reduced the average per client emergency room visit cost by 80%. SB 362 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0362) SB 362 (passed) will build on this momentum to expand Maryland’s network of CCBHCs. The bill requires the Maryland Department of Health (MDH) to apply for both a federal CCBHC planning grant in FY25 and for inclusion in the CCBHC demonstration program in FY26.'
+✅ Adding line: 'Where We Are Maryland currently has very limited CCBHC coverage, with just a few programs funded by federal grants they applied for directly. These programs, however, are seeing similarly positive results. Sheppard Pratt’s CCBHC program, for example, has reduced hospital stays by nearly 50% and reduced the average per client emergency room visit cost by 80%. SB 362 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0362) SB 362 (passed) will build on this momentum to expand Maryland’s network of CCBHCs. The bill requires the Maryland Department of Health (MDH) to apply for both a federal CCBHC planning grant in FY25 and for inclusion in the CCBHC demonstration program in FY26.'
+
+🔎 Tag: h4#.['accordion-item__title-wrapper']
+
+🔍 Checking line: 'Where We Are'
+✅ Adding line: 'Where We Are'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland currently has very limited CCBHC coverage, with just a few programs funded by federal grants they applied for directly. These programs, however, are seeing similarly positive results. Sheppard Pratt’s CCBHC program, for example, has reduced hospital stays by nearly 50% and reduced the average per client emergency room visit cost by 80%.'
+✅ Adding line: 'Maryland currently has very limited CCBHC coverage, with just a few programs funded by federal grants they applied for directly. These programs, however, are seeing similarly positive results. Sheppard Pratt’s CCBHC program, for example, has reduced hospital stays by nearly 50% and reduced the average per client emergency room visit cost by 80%.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'SB 362 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0362) SB 362 (passed) will build on this momentum to expand Maryland’s network of CCBHCs. The bill requires the Maryland Department of Health (MDH) to apply for both a federal CCBHC planning grant in FY25 and for inclusion in the CCBHC demonstration program in FY26.'
+✅ Adding line: 'SB 362 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0362) SB 362 (passed) will build on this momentum to expand Maryland’s network of CCBHCs. The bill requires the Maryland Department of Health (MDH) to apply for both a federal CCBHC planning grant in FY25 and for inclusion in the CCBHC demonstration program in FY26.'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'Our Goal: Ensure Medicaid recipients have equitable access to effective primary care services that are available to Marylanders with commercial insurance or Medicare.'
+✅ Adding line: 'Our Goal: Ensure Medicaid recipients have equitable access to effective primary care services that are available to Marylanders with commercial insurance or Medicare.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'How we get there: Require Medicaid reimbursement for the Collaborative Care Model (CoCM).'
+✅ Adding line: 'How we get there: Require Medicaid reimbursement for the Collaborative Care Model (CoCM).'
+
+🔎 Tag: li#.['accordion-item']
+
+🔍 Checking line: 'What is the Collaborative Care Model? The Collaborative Care Model integrates behavioral health into primary care. It is an evidence-based approach that improves health outcomes and saves $6 for every $1 invested. Learn more about the Collaborative Care Model. (https://www.psychiatry.org/psychiatrists/practice/professional-interests/integrated-care/learn) Learn more about the Collaborative Care Model.'
+✅ Adding line: 'What is the Collaborative Care Model? The Collaborative Care Model integrates behavioral health into primary care. It is an evidence-based approach that improves health outcomes and saves $6 for every $1 invested. Learn more about the Collaborative Care Model. (https://www.psychiatry.org/psychiatrists/practice/professional-interests/integrated-care/learn) Learn more about the Collaborative Care Model.'
+
+🔎 Tag: h4#.['accordion-item__title-wrapper']
+
+🔍 Checking line: 'What is the Collaborative Care Model?'
+✅ Adding line: 'What is the Collaborative Care Model?'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'The Collaborative Care Model integrates behavioral health into primary care. It is an evidence-based approach that improves health outcomes and saves $6 for every $1 invested.'
+✅ Adding line: 'The Collaborative Care Model integrates behavioral health into primary care. It is an evidence-based approach that improves health outcomes and saves $6 for every $1 invested.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Learn more about the Collaborative Care Model. (https://www.psychiatry.org/psychiatrists/practice/professional-interests/integrated-care/learn) Learn more about the Collaborative Care Model.'
+✅ Adding line: 'Learn more about the Collaborative Care Model. (https://www.psychiatry.org/psychiatrists/practice/professional-interests/integrated-care/learn) Learn more about the Collaborative Care Model.'
+
+🔎 Tag: li#.['accordion-item']
+
+🔍 Checking line: 'Why Collaborative Care? Most individuals receive mental health and substance use care from primary care physicians, and need has grown exponentially in the wake of COVID-19. Collaborative care is a validated, evidence-based approach that efficiently integrates physical and behavioral health in primary care settings and has been shown to save $6 in health care spending for every $1 invested. 80+ randomized trials have demonstrated CoCM’s effectiveness, and it is a covered service in the Medicare program and among most commercial health insurers. Maryland Medicaid recipients continue to be unfairly denied access to this effective service delivery model, despite clinically significant improvement in depression and anxiety symptoms among the small number of individuals served by Maryland’s very limited Medicaid pilot.'
+✅ Adding line: 'Why Collaborative Care? Most individuals receive mental health and substance use care from primary care physicians, and need has grown exponentially in the wake of COVID-19. Collaborative care is a validated, evidence-based approach that efficiently integrates physical and behavioral health in primary care settings and has been shown to save $6 in health care spending for every $1 invested. 80+ randomized trials have demonstrated CoCM’s effectiveness, and it is a covered service in the Medicare program and among most commercial health insurers. Maryland Medicaid recipients continue to be unfairly denied access to this effective service delivery model, despite clinically significant improvement in depression and anxiety symptoms among the small number of individuals served by Maryland’s very limited Medicaid pilot.'
+
+🔎 Tag: h4#.['accordion-item__title-wrapper']
+
+🔍 Checking line: 'Why Collaborative Care?'
+✅ Adding line: 'Why Collaborative Care?'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Most individuals receive mental health and substance use care from primary care physicians, and need has grown exponentially in the wake of COVID-19.'
+✅ Adding line: 'Most individuals receive mental health and substance use care from primary care physicians, and need has grown exponentially in the wake of COVID-19.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Collaborative care is a validated, evidence-based approach that efficiently integrates physical and behavioral health in primary care settings and has been shown to save $6 in health care spending for every $1 invested.'
+✅ Adding line: 'Collaborative care is a validated, evidence-based approach that efficiently integrates physical and behavioral health in primary care settings and has been shown to save $6 in health care spending for every $1 invested.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '80+ randomized trials have demonstrated CoCM’s effectiveness, and it is a covered service in the Medicare program and among most commercial health insurers.'
+✅ Adding line: '80+ randomized trials have demonstrated CoCM’s effectiveness, and it is a covered service in the Medicare program and among most commercial health insurers.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland Medicaid recipients continue to be unfairly denied access to this effective service delivery model, despite clinically significant improvement in depression and anxiety symptoms among the small number of individuals served by Maryland’s very limited Medicaid pilot.'
+✅ Adding line: 'Maryland Medicaid recipients continue to be unfairly denied access to this effective service delivery model, despite clinically significant improvement in depression and anxiety symptoms among the small number of individuals served by Maryland’s very limited Medicaid pilot.'
+
+🔎 Tag: li#.['accordion-item']
+
+🔍 Checking line: 'Where We Are SB 101/HB 48 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0101) SB 101/HB 48 (passed) will unleash the potential of this model in Maryland by expanding CoCM coverage to Medicaid recipients. Already covered by Medicare and commercial health insurers, this new service expansion will incentivize primary care practices to offer CoCM broadly across their patient populations, ensuring this best practice in care integration is equitably available to all citizens in need.'
+✅ Adding line: 'Where We Are SB 101/HB 48 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0101) SB 101/HB 48 (passed) will unleash the potential of this model in Maryland by expanding CoCM coverage to Medicaid recipients. Already covered by Medicare and commercial health insurers, this new service expansion will incentivize primary care practices to offer CoCM broadly across their patient populations, ensuring this best practice in care integration is equitably available to all citizens in need.'
+
+🔎 Tag: h4#.['accordion-item__title-wrapper']
+
+🔍 Checking line: 'Where We Are'
+⚠️ Duplicate skipped: 'Where We Are'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'SB 101/HB 48 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0101) SB 101/HB 48 (passed) will unleash the potential of this model in Maryland by expanding CoCM coverage to Medicaid recipients. Already covered by Medicare and commercial health insurers, this new service expansion will incentivize primary care practices to offer CoCM broadly across their patient populations, ensuring this best practice in care integration is equitably available to all citizens in need.'
+✅ Adding line: 'SB 101/HB 48 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0101) SB 101/HB 48 (passed) will unleash the potential of this model in Maryland by expanding CoCM coverage to Medicaid recipients. Already covered by Medicare and commercial health insurers, this new service expansion will incentivize primary care practices to offer CoCM broadly across their patient populations, ensuring this best practice in care integration is equitably available to all citizens in need.'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'Our Goal: Ensure workforce exists to accomplish service access goals.'
+✅ Adding line: 'Our Goal: Ensure workforce exists to accomplish service access goals.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: 'How we get there: Establish a Behavioral Health Workforce Investment Fund and require a comprehensive behavioral health workforce assessment to inform fund allocation.'
+✅ Adding line: 'How we get there: Establish a Behavioral Health Workforce Investment Fund and require a comprehensive behavioral health workforce assessment to inform fund allocation.'
+
+🔎 Tag: li#.['accordion-item']
+
+🔍 Checking line: 'Why is workforce a critical goal? Maryland has 63 federally designated mental health professional shortage areas, including 16 entire counties, and less than 20% of individuals in these areas are getting their mental health needs met. Staff vacancies exist in over 80% of Maryland’s child-serving community behavioral health programs. Recent high profile clinic closures, including Eastern Shore Psychological Services, will impact thousands of Marylanders with behavioral health needs. Several jurisdictions across the country have established dedicated funding for pipeline development and retention strategies to support and expand the behavioral health workforce.'
+✅ Adding line: 'Why is workforce a critical goal? Maryland has 63 federally designated mental health professional shortage areas, including 16 entire counties, and less than 20% of individuals in these areas are getting their mental health needs met. Staff vacancies exist in over 80% of Maryland’s child-serving community behavioral health programs. Recent high profile clinic closures, including Eastern Shore Psychological Services, will impact thousands of Marylanders with behavioral health needs. Several jurisdictions across the country have established dedicated funding for pipeline development and retention strategies to support and expand the behavioral health workforce.'
+
+🔎 Tag: h4#.['accordion-item__title-wrapper']
+
+🔍 Checking line: 'Why is workforce a critical goal?'
+✅ Adding line: 'Why is workforce a critical goal?'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Maryland has 63 federally designated mental health professional shortage areas, including 16 entire counties, and less than 20% of individuals in these areas are getting their mental health needs met.'
+✅ Adding line: 'Maryland has 63 federally designated mental health professional shortage areas, including 16 entire counties, and less than 20% of individuals in these areas are getting their mental health needs met.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Staff vacancies exist in over 80% of Maryland’s child-serving community behavioral health programs.'
+✅ Adding line: 'Staff vacancies exist in over 80% of Maryland’s child-serving community behavioral health programs.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Recent high profile clinic closures, including Eastern Shore Psychological Services, will impact thousands of Marylanders with behavioral health needs.'
+✅ Adding line: 'Recent high profile clinic closures, including Eastern Shore Psychological Services, will impact thousands of Marylanders with behavioral health needs.'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Several jurisdictions across the country have established dedicated funding for pipeline development and retention strategies to support and expand the behavioral health workforce.'
+✅ Adding line: 'Several jurisdictions across the country have established dedicated funding for pipeline development and retention strategies to support and expand the behavioral health workforce.'
+
+🔎 Tag: li#.['accordion-item']
+
+🔍 Checking line: 'Where We Are SB 283/HB 418 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0283) SB 283/HB 418 (passed) creates an infrastructure and a process to answer and act on these questions. The bill establishes a Behavioral Health Workforce Investment Fund to reimburse for costs associated with educating, training, certifying, recruiting, placing, and retaining behavioral health professionals and paraprofessionals. Funding is left discretionary initially to allow for a workforce needs assessment that will: (1) determine the immediate, intermediate, and long-term unmet need and capacity of Maryland’s behavioral health workforce; (2) calculate the total number of behavioral health professionals and paraprofessionals needed over the next 5 years, 10 years, and 20 years; and (3) make specific findings and recommendations regarding the types of workforce assistance programs and funding necessary to meet the need across all sectors of the behavioral health workforce.'
+✅ Adding line: 'Where We Are SB 283/HB 418 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0283) SB 283/HB 418 (passed) creates an infrastructure and a process to answer and act on these questions. The bill establishes a Behavioral Health Workforce Investment Fund to reimburse for costs associated with educating, training, certifying, recruiting, placing, and retaining behavioral health professionals and paraprofessionals. Funding is left discretionary initially to allow for a workforce needs assessment that will: (1) determine the immediate, intermediate, and long-term unmet need and capacity of Maryland’s behavioral health workforce; (2) calculate the total number of behavioral health professionals and paraprofessionals needed over the next 5 years, 10 years, and 20 years; and (3) make specific findings and recommendations regarding the types of workforce assistance programs and funding necessary to meet the need across all sectors of the behavioral health workforce.'
+
+🔎 Tag: h4#.['accordion-item__title-wrapper']
+
+🔍 Checking line: 'Where We Are'
+⚠️ Duplicate skipped: 'Where We Are'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'SB 283/HB 418 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0283) SB 283/HB 418 (passed) creates an infrastructure and a process to answer and act on these questions. The bill establishes a Behavioral Health Workforce Investment Fund to reimburse for costs associated with educating, training, certifying, recruiting, placing, and retaining behavioral health professionals and paraprofessionals. Funding is left discretionary initially to allow for a workforce needs assessment that will:'
+✅ Adding line: 'SB 283/HB 418 (passed) (https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0283) SB 283/HB 418 (passed) creates an infrastructure and a process to answer and act on these questions. The bill establishes a Behavioral Health Workforce Investment Fund to reimburse for costs associated with educating, training, certifying, recruiting, placing, and retaining behavioral health professionals and paraprofessionals. Funding is left discretionary initially to allow for a workforce needs assessment that will:'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '(1) determine the immediate, intermediate, and long-term unmet need and capacity of Maryland’s behavioral health workforce; (2) calculate the total number of behavioral health professionals and paraprofessionals needed over the next 5 years, 10 years, and 20 years; and (3) make specific findings and recommendations regarding the types of workforce assistance programs and funding necessary to meet the need across all sectors of the behavioral health workforce.'
+✅ Adding line: '(1) determine the immediate, intermediate, and long-term unmet need and capacity of Maryland’s behavioral health workforce; (2) calculate the total number of behavioral health professionals and paraprofessionals needed over the next 5 years, 10 years, and 20 years; and (3) make specific findings and recommendations regarding the types of workforce assistance programs and funding necessary to meet the need across all sectors of the behavioral health workforce.'
+📝 Saved HTML: output/html/platform/platform.html
+📄 Saved Text: output/text/platform/platform.txt
+Visiting: https://www.equaltreatmentmd.org/maryland-resources
+
+🔎 Tag: h1#.
+
+🔍 Checking line: 'Maryland Resources'
+✅ Adding line: 'Maryland Resources'
+
+🔎 Tag: li#.['list-item', 'list-item-basic-animation']
+
+🔍 Checking line: 'Maryland Crisis Hotlines Find the local crisis, domestic violence, and addictions hotlines available in your area. Learn More (https://www.equaltreatmentmd.org/s/Maryland-Crisis-Hotlines-January-2023.pdf) Learn More'
+✅ Adding line: 'Maryland Crisis Hotlines Find the local crisis, domestic violence, and addictions hotlines available in your area. Learn More (https://www.equaltreatmentmd.org/s/Maryland-Crisis-Hotlines-January-2023.pdf) Learn More'
+
+🔎 Tag: h2#.['list-item-content__title']
+
+🔍 Checking line: 'Maryland Crisis Hotlines'
+✅ Adding line: 'Maryland Crisis Hotlines'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Find the local crisis, domestic violence, and addictions hotlines available in your area.'
+✅ Adding line: 'Find the local crisis, domestic violence, and addictions hotlines available in your area.'
+
+🔎 Tag: li#.['list-item', 'list-item-basic-animation']
+
+🔍 Checking line: 'Behavioral Health Centers Find your local Behavioral Health Walk-In & Urgent Care Centers. Learn More (https://www.equaltreatmentmd.org/s/Behavioral-Health-Walk-In-Urgent-Care-Centers-Resource-Guide-202312623.pdf) Learn More'
+✅ Adding line: 'Behavioral Health Centers Find your local Behavioral Health Walk-In & Urgent Care Centers. Learn More (https://www.equaltreatmentmd.org/s/Behavioral-Health-Walk-In-Urgent-Care-Centers-Resource-Guide-202312623.pdf) Learn More'
+
+🔎 Tag: h2#.['list-item-content__title']
+
+🔍 Checking line: 'Behavioral Health Centers'
+✅ Adding line: 'Behavioral Health Centers'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Find your local Behavioral Health Walk-In & Urgent Care Centers.'
+✅ Adding line: 'Find your local Behavioral Health Walk-In & Urgent Care Centers.'
+
+🔎 Tag: li#.['list-item', 'list-item-basic-animation']
+
+🔍 Checking line: 'Maryland 1915i Providers Find local providers for Intensive Behavioral Health services for children, youth and families under the 1915i program. Learn More (https://www.equaltreatmentmd.org/s/1915i-Provider-Directory-02172023.pdf) Learn More'
+✅ Adding line: 'Maryland 1915i Providers Find local providers for Intensive Behavioral Health services for children, youth and families under the 1915i program. Learn More (https://www.equaltreatmentmd.org/s/1915i-Provider-Directory-02172023.pdf) Learn More'
+
+🔎 Tag: h2#.['list-item-content__title']
+
+🔍 Checking line: 'Maryland 1915i Providers'
+✅ Adding line: 'Maryland 1915i Providers'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: 'Find local providers for Intensive Behavioral Health services for children, youth and families under the 1915i program.'
+✅ Adding line: 'Find local providers for Intensive Behavioral Health services for children, youth and families under the 1915i program.'
+📝 Saved HTML: output/html/maryland-resources/maryland-resources.html
+📄 Saved Text: output/text/maryland-resources/maryland-resources.txt
+Visiting: https://www.equaltreatmentmd.org/maryland-voices
+
+🔎 Tag: h1#.
+
+🔍 Checking line: 'Maryland Voices'
+✅ Adding line: 'Maryland Voices'
+
+🔎 Tag: h3#.
+
+🔍 Checking line: 'People from across the state are speaking out about the need for better access to mental health and substance use care.'
+✅ Adding line: 'People from across the state are speaking out about the need for better access to mental health and substance use care.'
+
+🔎 Tag: h3#.
+
+🔍 Checking line: 'Add your voice (https://www.surveymonkey.com/r/6N65J3K) Add your voice to this growing chorus and tell your story in your own words.'
+✅ Adding line: 'Add your voice (https://www.surveymonkey.com/r/6N65J3K) Add your voice to this growing chorus and tell your story in your own words.'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“Health insurance companies do not make enough effort to help manage the care. There needs to be accountability instead of families trying to figure it all out or worse, give up because it’s too hard to navigate…If you do find a provider who takes commercial insurance the wait list is so long. We need more treatment on demand particularly for crisis and substance use. Kids staying in the ED for weeks waiting for a bed is unacceptable.”'
+✅ Adding line: '“Health insurance companies do not make enough effort to help manage the care. There needs to be accountability instead of families trying to figure it all out or worse, give up because it’s too hard to navigate…If you do find a provider who takes commercial insurance the wait list is so long. We need more treatment on demand particularly for crisis and substance use. Kids staying in the ED for weeks waiting for a bed is unacceptable.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Anonymous Resident'
+✅ Adding line: '— Anonymous Resident'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“Both my kids have struggled during and post pandemic - both have had to be placed inpatient as a result of psychiatric crisis’s [sic] …Neither have found any follow up care after inpatient crisis stays.”'
+✅ Adding line: '“Both my kids have struggled during and post pandemic - both have had to be placed inpatient as a result of psychiatric crisis’s [sic] …Neither have found any follow up care after inpatient crisis stays.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Montgomery County Resident'
+✅ Adding line: '— Montgomery County Resident'
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“Finding a counselor and/or psychiatrist for my son was unbelievable. The Health Department was empathic and offered some support but despite insurance and other resources, it was not enough to give him a chance. A bed in a treatment facility or even a recommendation to an IOP program was not an option - lack of space, long wait lists, no follow up. No support for those in the family living this nightmare day after day was mind numbingly exhausting. Stigma remains - so why are we not hearing substance use disorder being referred to with respect by elected officials, with health leaders? Families shouldn’t feel they should hide this affliction - we don’t shy from COVID, heart issues, obesity.”'
+✅ Adding line: '“Finding a counselor and/or psychiatrist for my son was unbelievable. The Health Department was empathic and offered some support but despite insurance and other resources, it was not enough to give him a chance. A bed in a treatment facility or even a recommendation to an IOP program was not an option - lack of space, long wait lists, no follow up. No support for those in the family living this nightmare day after day was mind numbingly exhausting. Stigma remains - so why are we not hearing substance use disorder being referred to with respect by elected officials, with health leaders? Families shouldn’t feel they should hide this affliction - we don’t shy from COVID, heart issues, obesity.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Anonymous Resident'
+⚠️ Duplicate skipped: '— Anonymous Resident'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“I have lived with both of my sons addicted to heroin for over 7 years. The wear and tear on parents and family must be addressed.”'
+✅ Adding line: '“I have lived with both of my sons addicted to heroin for over 7 years. The wear and tear on parents and family must be addressed.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Howard County Resident'
+✅ Adding line: '— Howard County Resident'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“The lack of resources on the eastern shore of Maryland is a huge concern. There are such obstacles to getting into treatment for in-patient facilities. The treatment that is received is not adequate and often times sent home worse than when they were admitted.”'
+✅ Adding line: '“The lack of resources on the eastern shore of Maryland is a huge concern. There are such obstacles to getting into treatment for in-patient facilities. The treatment that is received is not adequate and often times sent home worse than when they were admitted.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Wicomico County Resident'
+✅ Adding line: '— Wicomico County Resident'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“I personally have a mental health diagnosis and I’m struggling to find a psychiatrist in network after my psychiatrist retired.”'
+✅ Adding line: '“I personally have a mental health diagnosis and I’m struggling to find a psychiatrist in network after my psychiatrist retired.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Frederick County Resident'
+✅ Adding line: '— Frederick County Resident'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“When I was suicidal even picking up the phone was exhausting. Getting told by over a dozen offices that there was no help available and no alternative options was nearly a death sentence. Compounded by the financial costs it made it seem like nothing would ever get better.”'
+✅ Adding line: '“When I was suicidal even picking up the phone was exhausting. Getting told by over a dozen offices that there was no help available and no alternative options was nearly a death sentence. Compounded by the financial costs it made it seem like nothing would ever get better.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Harford County Resident'
+✅ Adding line: '— Harford County Resident'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“Since there are two people in my family with serious mental illness (schizophrenia and bi-polar), this matters the most to me. It was impossible to find a decent psychiatrist who accepted insurance, so I pay out of pocket to get them good care. I also was not able to find community services that matched their needs.”'
+✅ Adding line: '“Since there are two people in my family with serious mental illness (schizophrenia and bi-polar), this matters the most to me. It was impossible to find a decent psychiatrist who accepted insurance, so I pay out of pocket to get them good care. I also was not able to find community services that matched their needs.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Baltimore City Resident'
+✅ Adding line: '— Baltimore City Resident'
+
+🔎 Tag: p#.[]
+
+🔎 Tag: p#.['sqsrte-large']
+
+🔍 Checking line: '“My husband is a therapist and our 19 year old daughter died from a heroin overdose due to mental health issues. We had to fight our insurance companies for quality care and were denied so then we had to send her to RICA which was an abysmal facility - but at least had some decent quality staff. The resources we currently have for these issues are shameful. We must do better for our children, minorities, LGBTQ youth, the poor and those most vulnerable in our society.”'
+✅ Adding line: '“My husband is a therapist and our 19 year old daughter died from a heroin overdose due to mental health issues. We had to fight our insurance companies for quality care and were denied so then we had to send her to RICA which was an abysmal facility - but at least had some decent quality staff. The resources we currently have for these issues are shameful. We must do better for our children, minorities, LGBTQ youth, the poor and those most vulnerable in our society.”'
+
+🔎 Tag: p#.[]
+
+🔍 Checking line: '— Howard County Resident'
+⚠️ Duplicate skipped: '— Howard County Resident'
+📝 Saved HTML: output/html/maryland-voices/maryland-voices.html
+📄 Saved Text: output/text/maryland-voices/maryland-voices.txt

@@ -1,0 +1,84 @@
+{
+  "https://www.samhsa.gov/communities": {
+    "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics": {
+      "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/ccbhc-certification-criteria": {
+        "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/ccbhc-certification-criteria/implementation-deadlines": {}
+      },
+      "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/evaluations-reports": {},
+      "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/expansion-grants": {},
+      "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/guidance-and-webinars": {
+        "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/guidance-and-webinars/2016-quality-measures": {},
+        "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/guidance-and-webinars/data-reporting-templates-disclaimers": {},
+        "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/guidance-and-webinars/quality-measures-disclaimers": {}
+      },
+      "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/history-background": {},
+      "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/section-223": {},
+      "https://www.samhsa.gov/communities/certified-community-behavioral-health-clinics/technical-assistance-resources": {}
+    },
+    "https://www.samhsa.gov/communities/coping-bereavement-grief": {},
+    "https://www.samhsa.gov/communities/criminal-juvenile-justice": {
+      "https://www.samhsa.gov/communities/criminal-juvenile-justice/about": {},
+      "https://www.samhsa.gov/communities/criminal-juvenile-justice/grants-grantees": {
+        "https://www.samhsa.gov/communities/criminal-juvenile-justice/grants-grantees/early-diversion": {},
+        "https://www.samhsa.gov/communities/criminal-juvenile-justice/grants-grantees/supported-employment": {}
+      },
+      "https://www.samhsa.gov/communities/criminal-juvenile-justice/sequential-intercept-model": {
+        "https://www.samhsa.gov/communities/criminal-juvenile-justice/sequential-intercept-model/intercept-0": {},
+        "https://www.samhsa.gov/communities/criminal-juvenile-justice/sequential-intercept-model/intercept-1": {},
+        "https://www.samhsa.gov/communities/criminal-juvenile-justice/sequential-intercept-model/intercept-2": {},
+        "https://www.samhsa.gov/communities/criminal-juvenile-justice/sequential-intercept-model/intercept-3": {},
+        "https://www.samhsa.gov/communities/criminal-juvenile-justice/sequential-intercept-model/intercept-4": {},
+        "https://www.samhsa.gov/communities/criminal-juvenile-justice/sequential-intercept-model/intercept-5": {}
+      }
+    },
+    "https://www.samhsa.gov/communities/faith-based-community-engagement": {},
+    "https://www.samhsa.gov/communities/homelessness-programs-resources": {
+      "https://www.samhsa.gov/communities/homelessness-programs-resources/grants": {
+        "https://www.samhsa.gov/communities/homelessness-programs-resources/grants/gbhi": {},
+        "https://www.samhsa.gov/communities/homelessness-programs-resources/grants/path": {},
+        "https://www.samhsa.gov/communities/homelessness-programs-resources/grants/soar": {}
+      },
+      "https://www.samhsa.gov/communities/homelessness-programs-resources/immediate-assistance": {},
+      "https://www.samhsa.gov/communities/homelessness-programs-resources/tieh-program": {}
+    },
+    "https://www.samhsa.gov/communities/older-adults": {
+      "https://www.samhsa.gov/communities/older-adults/technology-transfer-center": {}
+    },
+    "https://www.samhsa.gov/communities/rural-behavioral-health": {},
+    "https://www.samhsa.gov/communities/tribal-affairs": {
+      "https://www.samhsa.gov/communities/tribal-affairs/contact": {},
+      "https://www.samhsa.gov/communities/tribal-affairs/funding-opportunities": {
+        "https://www.samhsa.gov/communities/tribal-affairs/funding-opportunities/circles-care": {},
+        "https://www.samhsa.gov/communities/tribal-affairs/funding-opportunities/native-connections": {
+          "https://www.samhsa.gov/communities/tribal-affairs/funding-opportunities/native-connections/publications": {},
+          "https://www.samhsa.gov/communities/tribal-affairs/funding-opportunities/native-connections/training-technical-assistance": {},
+          "https://www.samhsa.gov/communities/tribal-affairs/funding-opportunities/native-connections/webinars": {}
+        },
+        "https://www.samhsa.gov/communities/tribal-affairs/funding-opportunities/opioid-response-grants": {}
+      },
+      "https://www.samhsa.gov/communities/tribal-affairs/national-tribal-behavioral-health-agenda": {
+        "https://www.samhsa.gov/communities/tribal-affairs/national-tribal-behavioral-health-agenda/contributors": {},
+        "https://www.samhsa.gov/communities/tribal-affairs/national-tribal-behavioral-health-agenda/cultural-wisdom-declaration": {},
+        "https://www.samhsa.gov/communities/tribal-affairs/national-tribal-behavioral-health-agenda/historical-current-contexts": {},
+        "https://www.samhsa.gov/communities/tribal-affairs/national-tribal-behavioral-health-agenda/strategic-plans": {},
+        "https://www.samhsa.gov/communities/tribal-affairs/national-tribal-behavioral-health-agenda/tribal-data": {},
+        "https://www.samhsa.gov/communities/tribal-affairs/national-tribal-behavioral-health-agenda/working-collaboratively": {}
+      },
+      "https://www.samhsa.gov/communities/tribal-affairs/news-events": {
+        "https://www.samhsa.gov/communities/tribal-affairs/news-events/consultation-policy": {},
+        "https://www.samhsa.gov/communities/tribal-affairs/news-events/listening-sessions": {},
+        "https://www.samhsa.gov/communities/tribal-affairs/news-events/summits": {}
+      },
+      "https://www.samhsa.gov/communities/tribal-affairs/oiasa": {},
+      "https://www.samhsa.gov/communities/tribal-affairs/resources": {
+        "https://www.samhsa.gov/communities/tribal-affairs/resources/native-connections": {
+          "https://www.samhsa.gov/communities/tribal-affairs/resources/native-connections/contact": {},
+          "https://www.samhsa.gov/communities/tribal-affairs/resources/native-connections/training-technical-assistance": {
+            "https://www.samhsa.gov/communities/tribal-affairs/resources/native-connections/training-technical-assistance/grantee-technical-assistants": {}
+          }
+        }
+      },
+      "https://www.samhsa.gov/communities/tribal-affairs/tribal-action-plan": {}
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "https://www.samhsa.gov/find-help": {
+    "https://www.samhsa.gov/find-help/helplines": {
+      "https://www.samhsa.gov/find-help/helplines/disaster-distress-helpline": {},
+      "https://www.samhsa.gov/find-help/helplines/linea-nacional-ayuda": {},
+      "https://www.samhsa.gov/find-help/helplines/national-helpline": {}
+    },
+    "https://www.samhsa.gov/find-help/locators": {
+      "https://www.samhsa.gov/find-help/locators/esmi": {
+        "https://www.samhsa.gov/find-help/locators/esmi/glossary": {}
+      }
+    }
+  },
+  "https://www.samhsa.gov/find-support": {
+    "https://www.samhsa.gov/find-support/health-care-or-support": {
+      "https://www.samhsa.gov/find-support/health-care-or-support/professional-or-program": {},
+      "https://www.samhsa.gov/find-support/health-care-or-support/support-group-or-local-program": {},
+      "https://www.samhsa.gov/find-support/heath-care-or-support/housing": {}
+    },
+    "https://www.samhsa.gov/find-support/how-to-pay-for-treatment": {
+      "https://www.samhsa.gov/find-support/how-to-pay-for-treatment/free-or-low-cost-treatment": {},
+      "https://www.samhsa.gov/find-support/how-to-pay-for-treatment/know-what-your-insurance-covers": {}
+    },
+    "https://www.samhsa.gov/find-support/how-to-cope": {
+      "https://www.samhsa.gov/find-support/how-to-cope/signs-of-needing-help": {},
+      "https://www.samhsa.gov/find-support/how-to-cope/how-to-ask-for-help": {},
+      "https://www.samhsa.gov/find-support/how-to-cope/workplace": {},
+      "https://www.samhsa.gov/find-support/how-to-cope/teens-young-adults": {},
+      "https://www.samhsa.gov/find-support/how-to-cope/veterans": {},
+      "https://www.samhsa.gov/find-support/how-to-cope/older-adults": {},
+      "https://www.samhsa.gov/find-support/how-to-cope/disabilities": {}
+    },
+    "https://www.samhsa.gov/find-support/helping-someone": {
+      "https://www.samhsa.gov/find-support/helping-someone/how-to-talk-to-someone-about-help": {},
+      "https://www.samhsa.gov/find-support/helping-someone/caring-for-yourself": {},
+      "https://www.samhsa.gov/find-support/helping-someone/helping-your-child": {},
+      "https://www.samhsa.gov/find-support/helping-someone/educators-support-children-teens": {}
+    },
+    "https://www.samhsa.gov/find-support/learn-about-treatment": {
+      "https://www.samhsa.gov/find-support/learn-about-treatment/types-of-treatment": {},
+      "https://www.samhsa.gov/find-support/learn-about-treatment/types-of-providers": {},
+      "https://www.samhsa.gov/find-support/learn-about-treatment/finding-quality-treatment": {},
+      "https://www.samhsa.gov/find-support/health-care-or-support/how-to-set-up-an-appointment": {},
+      "https://www.samhsa.gov/find-support/learn-about-treatment/what-to-expect-from-treatment": {},
+      "https://www.samhsa.gov/find-support/learn-about-treatment/get-ready-to-start-treatment": {}
+    },
+    "https://www.samhsa.gov/find-support/in-crisis": {}
+
+    
+  }
+}
